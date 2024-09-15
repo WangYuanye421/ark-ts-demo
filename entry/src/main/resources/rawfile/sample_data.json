@@ -1,0 +1,1865 @@
+[
+  {
+    "style": "adventurer",
+    "styleName": "冒险者",
+    "tabs": [
+      {
+        "tab": "features",
+        "tabName": "特征",
+        "values": [
+          "mustache",
+          "blush",
+          "birthmark",
+          "freckles"
+        ]
+      },
+      {
+        "tab": "hair",
+        "tabName": "头发",
+        "values": [
+          "short16",
+          "short15",
+          "short14",
+          "short13",
+          "short12",
+          "short11",
+          "short10",
+          "short09",
+          "short08",
+          "short07",
+          "short06",
+          "short05",
+          "short04",
+          "short03",
+          "long20",
+          "short02",
+          "short01",
+          "long19",
+          "long18",
+          "long17",
+          "long16",
+          "long15",
+          "long14",
+          "long13",
+          "long12",
+          "long11",
+          "long10",
+          "long09",
+          "long08",
+          "long07",
+          "long06",
+          "long05",
+          "long04",
+          "long03",
+          "long02",
+          "long01",
+          "short19",
+          "long26",
+          "long25",
+          "short18",
+          "long24",
+          "long23",
+          "long22",
+          "short17",
+          "long21"
+        ]
+      },
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "variant30",
+          "variant29",
+          "variant28",
+          "variant27",
+          "variant26",
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "eyebrows",
+        "tabName": "眉毛",
+        "values": [
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "variant26",
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 762 762\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Adventurer</dc:title><dc:creator>Lisa Wischofsky</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://www.figma.com/community/file/1184595184137881796</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/licenses/by/4.0/</dcterms:license><dc:rights>Remix of „Adventurer” (https://www.figma.com/community/file/1184595184137881796) by „Lisa Wischofsky”, licensed under „CC BY 4.0” (https://creativecommons.org/licenses/by/4.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"762\" height=\"762\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><path d=\"M396 164.8a224.8 224.8 0 0 1 104.8 42.4c6.2 4.9 12.5 9.4 18 15a225.4 225.4 0 0 1 71.8 149 58.5 58.5 0 0 1 50.9 42.2 71 71 0 0 1-27.6 76.5c-11 7.7-24.5 12-38 11.7-5 0-10-1.6-15-1.8-1.9 2.2-3.3 4.9-4.8 7.3A223.3 223.3 0 0 1 389 609.8c-11 .7-21.9 2-33 .7a223.7 223.7 0 0 1-178.8-342.3A223.4 223.4 0 0 1 352 163.5c14.6-1.4 29.4-.3 44 1.3Z\" fill=\"#000\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M498.8 213.2A216 216 0 0 0 363 169c-13-.2-26.2 1.6-39 4a218 218 0 0 0-113.6 365.5 218.5 218.5 0 0 0 260.4 40.2c35-18.8 64.2-47.3 84.4-81.5l-3-1.6c-2.8-1.4-5.7-3-8-5-2.2-2-.3-5.8 2.7-4.7 1.5.7 3 1.6 4.4 2.4a55 55 0 0 0 59.6-3.6 64.5 64.5 0 0 0 25-69.8 53.1 53.1 0 0 0-24-31 52.6 52.6 0 0 0-47-2.8c-1.6.8-3.4 1.5-5 1.3-2.5-.2-2.8-4.2-.6-5.2 8-4 16.5-5.6 25.4-6.4a217 217 0 0 0-72-146.4c-4.4-4-8.7-8.1-13.9-11.3Zm107.6 196.2c2-1.2 1.3-5.1-1.4-5-2 0-4.2.8-6.2 1.6l-1.4.4a95.1 95.1 0 0 0-25.5 12.4c-2.2 2-2.2 4.4.1 6.2a92 92 0 0 0 5.2 2.8 36 36 0 0 1 13 9.2c-.2 1.9-2 3.4-3.4 4.5l-.2.2c-3.9 3-8.8 5-13.6 7-2.5 1-4.9 2-7.1 3.1-1.7.8-2.6 2.2-1.6 3.9 1 2 3.2 1.1 5 .5l.6-.2 5.4-2.3c5.4-2.3 11-4.5 15.4-8 2.7-2.1 5.1-5.1 5.4-8.7-.5-3.4-2.7-5.7-5.3-7.8a83 83 0 0 0-11.6-7.2l-1.1-.6c5.4-3 10.8-5.6 16.6-7.7l5-1.7a52 52 0 0 0 6.7-2.6Z\" fill=\"#f2d3b1\"/><g transform=\"translate(-161 -83)\"><path d=\"M550.3 424.4a65.9 65.9 0 0 1 62 30.4A64.9 64.9 0 0 1 598 540a65.4 65.4 0 1 1-47.7-115.6Z\" fill=\"#000\"/><path d=\"M549.2 430.3a59.7 59.7 0 1 1 15.1 118.3 59.7 59.7 0 0 1-15-118.3Z\" fill=\"#fff\"/><path d=\"M521.2 467.3a22.2 22.2 0 1 1 10.8 43 22.2 22.2 0 0 1-10.8-43ZM333 478.5c14.4.7 28.8 1.5 43 3.9 21.1 3.4 42.9 9 62.1 18.4 2.9 1.6 2.5 3.3 1.6 6.1-2.4 0-4.4-.2-6.7-1-11.1-3.4-22.5-5.3-34-7.2-10.4-1.4-20.6-3.2-31-3.7-11-1-21.9-.7-33-.6-2-.1-5 .6-6.6-.8-.7-2.1.8-4.7 1.3-6.8-.9-1.6-3-3.4-2.4-5.4 1-2.4 3.4-3 5.7-3Z\" fill=\"#000\"/></g><g transform=\"translate(-161 -83)\"><path d=\"M607 397.6c1.5-.4 3.2.6 4.7 1 0 1.2-.1 2.4-.4 3.6-1.6 1.5-3.6 2.6-5.4 3.8a803.6 803.6 0 0 1-70.4 40.6A289.9 289.9 0 0 1 500 462a50 50 0 0 1-21 3.5c-3.3-.4-6.2-3-6.2-6.5 0-4.2 3-8.6 5-12.1 1.3-2.7 4.5-3 7-4.1l111.7-41.5c3.5-1.2 7-2.8 10.5-3.7ZM339 432.6l90 18c2.3.4 4.6.1 6.9.5 2.4 2.3 3.6 6.2 4.5 9.4 1.2 4-.1 8.8-4 11-4 2.6-9.8 2.1-14.4 1.9-8.8-1-17.4-3.8-25.7-6.8a418 418 0 0 1-57-27c-1.6-.9-3.6-1.9-4.8-3.5-.3-2.9 1.9-4.1 4.5-3.5Z\" fill=\"#000\"/></g><g transform=\"translate(-161 -83)\"><path d=\"M496 576.3c3-.1 6.1-.1 9.2.3l1.2 2.4-1.2 2.5c-7.7.8-15.5 0-23.2.6l-84 .6c-1.7 0-4.6-.6-4.4-2.7-.5-1.7 1.8-3.3 3.3-3.2l99-.5Z\" fill=\"#000\"/></g><g transform=\"translate(-161 -83)\"></g><g transform=\"translate(-161 -83)\"></g><g transform=\"translate(-161 -83)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M692.5 249.5a208.4 208.4 0 0 0-52-34 95.6 95.6 0 0 0-56-4.8A255 255 0 0 0 546 221l-1.9.7a192 192 0 0 0-20.5 8.5c-1.2.5-2.3 1-3.7 1-4.7-.2-9.5-1.2-14.2-2.1l-2.3-.5a876.7 876.7 0 0 0-31.8-4.8c-7.4-1-14.8-2-22.2-3.2-7.4-.8-15-1-22.3 0-10 1.8-19.8 5.2-29 9.5a437.1 437.1 0 0 0-50.6 27.4 324.7 324.7 0 0 0-43 33 225.3 225.3 0 0 0-32.1 35.9c-13.1 17.9-23.2 40.1-24.2 62.5a175.4 175.4 0 0 0 5.6 54c2.4 10 4.5 20.1 6.5 30.2l2.1 10 2.3 11.5a135.4 135.4 0 0 1 3.3 40.3 193.3 193.3 0 0 1-20 58c-3.7 7.7-7.4 15-11.2 22.4a517 517 0 0 0-18.8 39.7c-7.4 19-12.2 38.5-12 58.9a116 116 0 0 0 8.2 41.7 69 69 0 0 0 14.4 21.6 203.5 203.5 0 0 0 35.4 27c13.6 9.3 27.5 19 36.7 33a57 57 0 0 1 11 32.7 33.3 33.3 0 0 1-8.8 21c-1 1-2 2.1-2.8 3.3-1 2-.2 3.4.9 5 0 .2 0 .3.2.4 2.2 0 4.4-.1 6.5-1a123.6 123.6 0 0 0 64.6-50.3 83.4 83.4 0 0 0 13.8-42c10.9 14 26.7 22.1 43.8 25.6 16.8 3.6 33 3 50 2.2 16.5-1.7 32.7-5.5 47.8-12.4 10.2-4.4 19.4-10 28.8-15.8l6.4-4 8.8-5.5c5.3-3.3 10.5-6.6 16-9.7a343 343 0 0 1 33-16.8 263 263 0 0 1 71.2-20.3 196 196 0 0 1 29-2c24.9-.3 50.2 3.8 72.9 14.3 13.9 6.5 27 15 39.5 23.6 2 2 7.1.4 6.8-2.6-.9-2.3-2-4.4-3.2-6.5-1.6-3-3.2-6-4-9.5a48.8 48.8 0 0 1-1.8-13c.9-14.4 3.8-28.5 8.4-42.2 2.3-7.6 5.3-14.9 8.2-22.2 2.6-6.2 5-12.4 7.2-18.7 6.9-19.4 10-40.4 8-60.9-1.1-15-6-29.8-12.8-43.2-3.9-7.8-8.3-15.3-12.8-22.9-4.5-7.6-9-15.2-13-23.1a91.4 91.4 0 0 1-7.9-22.6c-3.5-16.7-5.2-33.9-7-51-1-10.8-2.1-21.5-3.6-32a151.5 151.5 0 0 0-10.5-41.4c-6-14.1-13.6-27.6-21.4-40.8-6.3-9.3-13.7-18-21-26.5l-2-2.4c-13.5-15.7-29.7-29.7-45.7-43.4l-12.8-11.2Zm-122 164.9c-35.9-28-65.4-66.5-78.6-110.4-3 .3-5.9.6-8.7 1.4-27.7 6.4-55 15.7-80.5 28.3a243.8 243.8 0 0 0-78.5 61.5c-1 1.3-2 2.7-2.5 4.3A218.2 218.2 0 0 0 717 579c.9-1.7 2.2-2.4 3.8-3.2 11.9 4.1 24.8 4 36.6-.3a64.6 64.6 0 0 0 41.8-60.5 55.5 55.5 0 0 0-17-41.2 51.4 51.4 0 0 0-30.2-13.6c-9.9-.8-19.7.8-28.6 5-.4 10.6-6 20.1-11.3 28.9-6.2 10-12.9 20.5-22.6 27.4-2 1.7-5.5.3-4.8-2.5 4.4-17.9 1.2-38.3-2.7-56-1.4-.7-3-.9-4.8-1l-3-.5a235.9 235.9 0 0 1-103.6-47.1Z\" fill=\"#000\"/><g fill=\"#b9a05f\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M628 217.3a87.7 87.7 0 0 0-31-2.8 269 269 0 0 0-61.8 16.8c-4.9 1.7-9.6 4.1-14.2 6.5-3.7 1.9-7.3 3.7-11 5.3-2.9 1-4.7-.8-3.5-3.6a27.8 27.8 0 0 1 6-3.6c-13-2.5-26.4-4.3-39.7-6L459 228c-11.1-2-23-3.4-34.2-1a123 123 0 0 0-22.3 7.6 423.4 423.4 0 0 0-50.7 27.2 313.8 313.8 0 0 0-41 31c-10.1 8.6-19.1 18.3-27.3 28.8a137.5 137.5 0 0 0-24.7 43.2 107.7 107.7 0 0 0-5 38.2c.5 15 3.7 29.3 7 43.8 1.4 6.5 2.9 13 4.1 19.7 1.4 5.7 2.5 11.5 3.6 17.3l3 15c2.9 13.3 3.9 26.7 1.5 40.2-3 21-12 41-21.3 59.8-3.2 6.8-6.7 13.6-10.1 20.3-5.1 10-10.2 19.9-14.6 30a181.2 181.2 0 0 0-12.8 39.8A124.8 124.8 0 0 0 216 743a67.7 67.7 0 0 0 17.2 30.6c9.7 9.4 20.5 16.8 31.8 24.1l3 2c13.4 9.5 27 19 36.4 32.7a62 62 0 0 1 13 37.5c0 7.9-2.8 15.1-7 21.7a118 118 0 0 0 58.1-48 76.2 76.2 0 0 0 11.9-40.7v-5.3l1.2-.4c1-.4 2.2-1 3.4-.6 1.2 1 2 2 3 3.3l.4.5a64.5 64.5 0 0 0 15.8 15.3c13.9 8.7 29.6 11.9 45.7 13 21.1 1 41.8-.4 62-7 13-4.5 25.3-10.5 37-18a752 752 0 0 0 16.6-10.3c10-6.2 19.7-12.4 30.2-17.8 22-11.7 45.3-20.9 69.4-27 35.5-8.3 74-10.1 109.3 0a200 200 0 0 1 56.5 28.1 55.7 55.7 0 0 1-4.5-33.8c1.2-10.4 3.6-20.6 6.8-30.5 2.7-8.9 6-17.2 9.3-25.5 4.8-11.8 9.4-23.5 12.2-36.5 4.6-21.1 4.4-43.4-2.6-64-4.6-14-12.3-27-20-39.9a362 362 0 0 1-12.6-22.4c-4.3-8.3-7.3-17-9-26.2a505 505 0 0 1-6.8-50.5c-1.5-15-3-29.9-5.7-44.5-2.6-14-7.6-27.4-14.1-40a436 436 0 0 0-16.8-30.1c-4.4-6-9.3-11.8-14.2-17.4l-3.4-4A320 320 0 0 0 712 274l-8.5-7.4c-10.4-9-20.8-18.1-32-26.3-13-9.7-27.8-18.8-43.5-23Zm-57.4 197c-36-28-65.5-66.4-78.7-110.3-3 .3-5.9.6-8.7 1.4-27.7 6.4-55 15.7-80.5 28.3a243.8 243.8 0 0 0-78.5 61.5c-1 1.3-2 2.7-2.5 4.3A218.2 218.2 0 0 0 717 579c.9-1.7 2.2-2.4 3.8-3.2 11.9 4.1 24.8 4 36.6-.3a64.6 64.6 0 0 0 41.8-60.5 55.5 55.5 0 0 0-17-41.2 51.4 51.4 0 0 0-30.2-13.6c-9.9-.8-19.7.8-28.6 5-.4 10.6-6 20.1-11.3 28.9-6.2 10-12.9 20.5-22.6 27.4-2 1.7-5.5.3-4.8-2.5 4.4-17.9 1.2-38.3-2.7-56-1.4-.7-3-.9-4.8-1l-3-.5a235.9 235.9 0 0 1-103.6-47.1Zm-77.4-131.9c-.3-2.2-.6-4.4-1.2-6.5-.5-1.9-2.2-1.7-3.7-1.6l-.8.1c-1 2.8-.6 5.3-.2 8l.2 1.6c.8 5 1.8 9.8 3 14.7A305.3 305.3 0 0 0 445 310c-35.4 11.8-70.7 29-98.5 54.3a258.7 258.7 0 0 0-50 59.1A146 146 0 0 0 285 446c-1.1 3.3 1.6 5 4.4 3.3 1-1.3 1.6-2.8 2.3-4.3l.7-1.6c5.2-11.5 12-22.2 19.5-32.3a227.2 227.2 0 0 0 3.5 128.7A224.7 224.7 0 0 0 489 690.4c12.2 2.3 24.6 3 37 3.6 5 .1 10-.3 14.9-.6l7-.5a224.8 224.8 0 0 0 173.8-110.3c2 .2 4 .5 5.9.9A65 65 0 0 0 781 568a71.2 71.2 0 0 0 21.4-71.6 58.4 58.4 0 0 0-31.7-37.2 60 60 0 0 0-42.4-2.3c-3.8.1-7.6.4-11.4.7-6.3.5-12.6 1-19 .5-24.3-.9-48.2-7.2-70.5-16.7a246.9 246.9 0 0 1-92.3-69.6 192.4 192.4 0 0 1-41.3-84.7l-.7-4.8Zm77.4 132c-36-28-65.5-66.5-78.7-110.4-3 .3-5.9.6-8.7 1.4-27.7 6.4-55 15.7-80.5 28.3a243.8 243.8 0 0 0-78.5 61.5c-1 1.3-2 2.7-2.5 4.3A218.2 218.2 0 0 0 717 579c.9-1.7 2.2-2.4 3.8-3.2 11.9 4.1 24.8 4 36.6-.3a64.6 64.6 0 0 0 41.8-60.5 55.5 55.5 0 0 0-17-41.2 51.4 51.4 0 0 0-30.2-13.6c-9.9-.8-19.7.8-28.6 5-.4 10.6-6 20.1-11.3 28.9-6.2 10-12.9 20.5-22.6 27.4-2 1.7-5.5.3-4.8-2.5 4.4-17.9 1.2-38.3-2.7-56-1.4-.7-3-.9-4.8-1l-3-.5a235.9 235.9 0 0 1-103.6-47.1Z\"/><path d=\"M718.1 463.6c-.1 2.6-.2 5-1 7.6-2.6 9-7.9 17-13 25a126 126 0 0 1-12 15.7c1.4-16.5-1-32.4-4.5-48.6 10.2 1 20.3.9 30.5.3Z\"/></g></g><g transform=\"translate(-161 -83)\"></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Jack",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "adventurer-neutral",
+    "styleName": "中性冒险者",
+    "tabs": [
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "variant30",
+          "variant29",
+          "variant28",
+          "variant27",
+          "variant26",
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "eyebrows",
+        "tabName": "眉毛",
+        "values": [
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "variant26",
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Adventurer Neutral</dc:title><dc:creator>Lisa Wischofsky</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://www.figma.com/community/file/1184595184137881796</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/licenses/by/4.0/</dcterms:license><dc:rights>Remix of „Adventurer Neutral” (https://www.figma.com/community/file/1184595184137881796) by „Lisa Wischofsky”, licensed under „CC BY 4.0” (https://creativecommons.org/licenses/by/4.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"400\" height=\"400\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><rect fill=\"#f2d3b1\" width=\"400\" height=\"400\" x=\"0\" y=\"0\" /><g transform=\"translate(-279 -322)\"><path d=\"M559.03 444.54c11.35-.74 22.5-.03 33.16 4.25 11.38 4.42 21.3 12.4 26.22 23.8 1.35 3.28 3.11 7.55 2.23 11.1-3.07 3.25-8.56 1.02-12.56 1.03-12.66-.6-25.44-.46-38.07.6-13.92 1-28.4 1.71-41.93 5.23-8.57 1.76-17 4.47-25.23 7.41-3.69 1.26-6.8 2.95-10.86 2.2 1.31-16.82 12.96-31.4 26.26-40.94a87.3 87.3 0 0 1 40.78-14.69Z\" fill=\"#000\"/><path d=\"M572.98 450.16c11.61 1.09 23.19 4.98 31.87 13a36.2 36.2 0 0 1 10.19 16.72c-16.72-2.17-34.3-.87-51.09.1-7.64.88-15.37.98-22.94 2.25 1.15-9.27 2.15-18.43 1.05-27.77 10.01-3.52 20.28-5.48 30.92-4.3Z\" fill=\"#fff\"/><path d=\"M369.22 468.68c17.1-2.83 35.63-.23 50.88 8.19 8.69 4.83 16.86 12.07 20.6 21.48.74 2.06 1.6 4.59-.72 5.96-2.65.08-5.37-.59-8-1-9.4-1.82-19.4-2.12-28.98-2.58-10.7-.45-21.3.47-32 .59-12.48.84-24.76 2.93-37.09 5-2.44.58-3.13-2.39-3.06-4.24.15-12.37 9.08-22.32 19.76-27.45 6-2.54 12.23-4.67 18.62-5.95Z\" fill=\"#000\"/><path d=\"M516.85 467.34c-.57 6.96-.53 13.45.13 20.4-6.16 1.8-12.2 3.88-18.22 6.1 3.2-10.63 9.88-19.24 18.1-26.5ZM374.58 473.35c9.9-.51 19.68.03 29.2 2.93 12.4 3.71 23.8 10.16 30.58 21.56-20.19-3.58-39.98-2.6-60.31-2.46.88-7.35.67-14.65.53-22.03ZM350.49 480.58c-.28 5.86-.25 11.64 0 17.5-4.7.28-9.4.74-14.03 1.68 1.62-7 5.15-12.07 10.65-16.56 1.13-.89 2.26-1.76 3.39-2.62Z\" fill=\"#fff\"/></g><g transform=\"translate(-279 -322)\"><path d=\"M545.03 378.5c24.7.94 48.04 8.97 69.45 21 2.26 1.31 4.92 2.48 6.79 4.32 1.3 2.39-.38 5.13-3.2 4.19-16.58-6.2-33.56-9.63-51.06-12.02-20.3-2.34-39.92-3.68-60.2-.13-3.2.44-6.87 2.16-10.08 1.59-2.66-1.69-1.2-6.1 1.29-7.37 13.63-9.33 30.79-12.1 47-11.58ZM407.99 396.92c3.5.64 6.6 1.92 9.63 3.78-.15 1.2-.26 2.4-.33 3.62-2.7.74-5.46 1.12-8.24 1.34-13.17 1.15-26.45 5.1-38.81 9.69-12.23 4.75-24.78 10.64-35.19 18.7-2.82 2.04-4.13 4.83-8.08 4.48-.5-.9-1-1.79-1.51-2.67.9-1.6 1.68-3.17 2.76-4.64 9.55-13.17 23.64-23.22 38.6-29.35 12.7-5.15 27.62-8.05 41.17-4.95Z\" fill=\"#000\"/></g><g transform=\"translate(-279 -322)\"><path d=\"M453.25 567.36c4.1-.57 8.25-.35 12.08 1.33 7.6 3.15 12.7 10.48 14.48 18.34 3.17 12.11-1.32 25.91-11.67 33.21-3.02 2.43-6.72 3.47-10.48 2.14-3.55-1.73-5.24-5.25-6.16-8.9-1.46-5.32 1.2-10.53.14-16.17-1-4.18-4.74-7.42-6.58-11.4-1.24-2.68-2.42-5.94-2.07-8.92.75-5.02 5.39-8.88 10.26-9.63Z\" fill=\"#000\"/></g><g transform=\"translate(-279 -322)\"></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Loki",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "avataaars",
+    "styleName": "化身",
+    "tabs": [
+      {
+        "tab": "nose",
+        "tabName": "鼻子",
+        "values": [
+          "default"
+        ]
+      },
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "concerned",
+          "default",
+          "disbelief",
+          "eating",
+          "grimace",
+          "sad",
+          "screamOpen",
+          "serious",
+          "smile",
+          "tongue",
+          "twinkle",
+          "vomit"
+        ]
+      },
+      {
+        "tab": "top",
+        "tabName": "顶部装饰",
+        "values": [
+          "eyepatch",
+          "hat",
+          "hijab",
+          "turban",
+          "winterHat1",
+          "winterHat02",
+          "winterHat03",
+          "winterHat04",
+          "bob",
+          "bun",
+          "curly",
+          "curvy",
+          "dreads",
+          "frida",
+          "fro",
+          "froBand",
+          "longButNotTooLong",
+          "miaWallace",
+          "shavedSides",
+          "straight02",
+          "straight01",
+          "straightAndStrand",
+          "dreads01",
+          "dreads02",
+          "frizzle",
+          "shaggy",
+          "shaggyMullet",
+          "shortCurly",
+          "shortFlat",
+          "shortRound",
+          "shortWaved",
+          "sides",
+          "theCaesar",
+          "theCaesarAndSidePart",
+          "bigHair"
+        ]
+      },
+      {
+        "tab": "eyebrows",
+        "tabName": "眉毛",
+        "values": [
+          "angryNatural",
+          "defaultNatural",
+          "flatNatural",
+          "frownNatural",
+          "raisedExcitedNatural",
+          "sadConcernedNatural",
+          "unibrowNatural",
+          "upDownNatural",
+          "angry",
+          "default",
+          "raisedExcited",
+          "sadConcerned",
+          "upDown"
+        ]
+      },
+      {
+        "tab": "style",
+        "tabName": "风格",
+        "values": [
+          "circle",
+          "default"
+        ]
+      },
+      {
+        "tab": "clothing",
+        "tabName": "衣服",
+        "values": [
+          "blazerAndShirt",
+          "blazerAndSweater",
+          "collarAndSweater",
+          "graphicShirt",
+          "hoodie",
+          "overall",
+          "shirtCrewNeck",
+          "shirtScoopNeck",
+          "shirtVNeck"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "closed",
+          "cry",
+          "default",
+          "eyeRoll",
+          "happy",
+          "hearts",
+          "side",
+          "squint",
+          "surprised",
+          "winkWacky",
+          "wink",
+          "xDizzy"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 280 280\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Avataaars</dc:title><dc:creator>Pablo Stanley</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://avataaars.com/</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://avataaars.com/</dcterms:license><dc:rights>Remix of „Avataaars” (https://avataaars.com/) by „Pablo Stanley”, licensed under „Free for personal and commercial use” (https://avataaars.com/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"280\" height=\"280\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><g transform=\"translate(8)\"><path d=\"M132 36a56 56 0 0 0-56 56v6.17A12 12 0 0 0 66 110v14a12 12 0 0 0 10.3 11.88 56.04 56.04 0 0 0 31.7 44.73v18.4h-4a72 72 0 0 0-72 72v9h200v-9a72 72 0 0 0-72-72h-4v-18.39a56.04 56.04 0 0 0 31.7-44.73A12 12 0 0 0 198 124v-14a12 12 0 0 0-10-11.83V92a56 56 0 0 0-56-56Z\" fill=\"#D0C6AC\"/><mask id=\"styleDefault-a\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"32\" y=\"36\" width=\"200\" height=\"244\"><path d=\"M132 36a56 56 0 0 0-56 56v6.17A12 12 0 0 0 66 110v14a12 12 0 0 0 10.3 11.88 56.04 56.04 0 0 0 31.7 44.73v18.4h-4a72 72 0 0 0-72 72v9h200v-9a72 72 0 0 0-72-72h-4v-18.39a56.04 56.04 0 0 0 31.7-44.73A12 12 0 0 0 198 124v-14a12 12 0 0 0-10-11.83V92a56 56 0 0 0-56-56Z\" fill=\"#D0C6AC\"/></mask><g mask=\"url(#styleDefault-a)\"><path fill=\"#d08b5b\" d=\"M0 36h264v244H0z\"/><path d=\"M76 130v8a56 56 0 1 0 112 0v-8a56 56 0 1 1-112 0Z\" fill=\"#000\" fill-opacity=\".1\"/></g><g transform=\"translate(0 170)\"><path d=\"M132 57.05c14.91 0 27-11.2 27-25 0-1.01-.06-2.01-.2-3h1.2a72 72 0 0 1 72 72V110H32v-8.95a72 72 0 0 1 72-72h1.2c-.14.99-.2 1.99-.2 3 0 13.8 12.09 25 27 25Z\" fill=\"#E6E6E6\"/><path d=\"M100.78 29.12 101 28c-2.96.05-6 1-6 1l-.42.66A72.01 72.01 0 0 0 32 101.06V110h74s-10.7-51.56-5.24-80.8l.02-.08ZM158 110s11-53 5-82c2.96.05 6 1 6 1l.42.66a72.01 72.01 0 0 1 62.58 71.4V110h-74Z\" fill=\"#ffffb1\"/><path d=\"M101 28c-6 29 5 82 5 82H90L76 74l6-9-6-6 19-30s3.04-.95 6-1ZM163 28c6 29-5 82-5 82h16l14-36-6-9 6-6-19-30s-3.04-.95-6-1Z\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" fill=\"#000\" fill-opacity=\".15\"/><path d=\"M108 21.54c-6.77 4.6-11 11.12-11 18.35 0 7.4 4.43 14.05 11.48 18.67l5.94-4.68 4.58.33-1-3.15.08-.06c-6.1-3.15-10.08-8.3-10.08-14.12V21.54ZM156 36.88c0 5.82-3.98 10.97-10.08 14.12l.08.06-1 3.15 4.58-.33 5.94 4.68C162.57 53.94 167 47.29 167 39.89c0-7.23-4.23-13.75-11-18.35v15.34Z\" fill=\"#F2F2F2\"/><path d=\"m183.42 85.77.87-2.24 6.27-4.7a4 4 0 0 1 4.85.05l6.6 5.12-18.59 1.77Z\" fill=\"#E6E6E6\"/></g><g transform=\"translate(78 134)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M34 30.4C35.14 19.9 38.24 11 54 11c15.76 0 18.92 8.96 20 19.5.08.84-.83 1.5-1.96 1.5-6.69 0-9.37-1.5-18.05-1.5-8.7 0-13.24 1.5-17.9 1.5-1.15 0-2.2-.55-2.1-1.6Z\" fill=\"#000\" fill-opacity=\".7\"/><path d=\"M67.86 15.1c-.8.57-1.8.9-2.86.9H44c-1.3 0-2.49-.5-3.38-1.31C43.56 12.38 47.8 11 54 11c6.54 0 10.9 1.54 13.86 4.1Z\" fill=\"#fff\"/><path d=\"M42 25a6 6 0 0 0-6 6v7a6 6 0 0 0 12 0v-2h.08a6 6 0 0 1 11.84 0H60a6 6 0 0 0 12 0v-5a6 6 0 0 0-6-6H42Z\" fill=\"#7BB24B\"/><path d=\"M72 31a6 6 0 0 0-6-6H42a6 6 0 0 0-6 6v6a6 6 0 0 0 12 0v-2h.08a6 6 0 0 1 11.84 0H60a6 6 0 0 0 12 0v-4Z\" fill=\"#88C553\"/></g><g transform=\"translate(104 122)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 8c0 4.42 5.37 8 12 8s12-3.58 12-8\" fill=\"#000\" fill-opacity=\".16\"/></g><g transform=\"translate(76 90)\"><path d=\"M27 16c-4.84 0-9 2.65-10.84 6.45-.54 1.1.39 1.85 1.28 1.12a15.13 15.13 0 0 1 9.8-3.22 6 6 0 1 0 10.7 2.8 2 2 0 0 0-.12-.74l-.15-.38a6 6 0 0 0-1.64-2.48C33.9 17.32 30.5 16 27 16ZM85 16c-4.84 0-9 2.65-10.84 6.45-.54 1.1.39 1.85 1.28 1.12a15.13 15.13 0 0 1 9.8-3.22 6 6 0 1 0 10.7 2.8 2 2 0 0 0-.12-.74l-.15-.38a6 6 0 0 0-1.64-2.48C91.9 17.32 88.5 16 85 16Z\" fill=\"#000\" fill-opacity=\".6\"/></g><g transform=\"translate(76 82)\"><path d=\"M15.98 17.13C17.48 7.6 30.06 1.1 39.16 5.3a2 2 0 1 0 1.68-3.63c-11.5-5.3-26.9 2.66-28.82 14.84a2 2 0 0 0 3.96.63ZM96.02 17.13C94.52 7.6 81.94 1.1 72.84 5.3a2 2 0 1 1-1.68-3.63c11.5-5.3 26.9 2.66 28.82 14.84a2 2 0 0 1-3.96.63Z\" fill=\"#000\" fill-opacity=\".6\"/></g><mask id=\"styleDefault-b\" style=\"mask-type:luminance\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"264\" height=\"280\"><path fill=\"#fff\" d=\"M0 0h264v280H0z\"/></mask><g mask=\"url(#styleDefault-b)\"><g transform=\"translate(-1)\"><path d=\"M67 65c0-8.16 1.6-15.95 4.5-23.06-3.86-8.95-8.33-22.96-3.86-32.82 8-2.43 17.8 1.33 25.63 5.73A60.72 60.72 0 0 1 128 4h10c12.91 0 24.9 4.01 34.75 10.86 7.84-4.4 17.66-8.17 25.67-5.74 4.47 9.88-.03 23.94-3.9 32.88A60.83 60.83 0 0 1 199 65v8H67v-8Z\" fill=\"#e6e6e6\"/><path d=\"M194.52 42c3.87-8.94 8.37-23 3.9-32.88-8.01-2.43-17.83 1.34-25.66 5.74A61.21 61.21 0 0 1 194.51 42ZM93.27 14.85c-7.83-4.4-17.63-8.16-25.63-5.73-4.47 9.86 0 23.87 3.87 32.82 4.5-11 12.12-20.4 21.76-27.1Z\" fill=\"#000\" fill-opacity=\".24\"/><path d=\"M190.2 33.42c1.99-6 3.5-12.86 1.49-16.1-2.67-1.16-7.59.47-12.4 2.77a61.28 61.28 0 0 1 10.9 13.33ZM86.66 20.14c-4.92-2.38-10-4.11-12.73-2.93-2.06 3.33-.42 10.47 1.64 16.59a61.28 61.28 0 0 1 11.1-13.66Z\" fill=\"#fff\" fill-opacity=\".3\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M64 69.77a7.05 7.05 0 0 1 3.05-5.96c7.8-5.18 30.42-17.8 66.02-17.8 35.6 0 58.14 12.62 65.9 17.81a7.04 7.04 0 0 1 3.03 5.95v30.2c0 3.3-3.9 5.38-6.78 3.75C184.84 97.83 163.1 88 133.8 88a133.57 133.57 0 0 0-63.17 15.98c-2.85 1.56-6.63-.5-6.63-3.75V69.77Z\" fill=\"#000\" fill-opacity=\".1\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M64 67.77a7.05 7.05 0 0 1 3.05-5.96c7.8-5.18 30.42-17.8 66.02-17.8 35.6 0 58.14 12.62 65.9 17.81a7.04 7.04 0 0 1 3.03 5.95v30.2c0 3.3-3.9 5.38-6.78 3.75C184.84 95.83 163.1 86 133.8 86a133.57 133.57 0 0 0-63.17 15.98c-2.85 1.56-6.63-.5-6.63-3.75V67.77Z\" fill=\"#F4F4F4\"/><g transform=\"translate(49 72)\"></g><g transform=\"translate(62 85)\"></g></g></g></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Abby",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "big-ears",
+    "styleName": "大耳朵",
+    "tabs": [
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "cheek",
+        "tabName": "面颊",
+        "values": [
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "ear",
+        "tabName": "耳朵",
+        "values": [
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "variant32",
+          "variant31",
+          "variant30",
+          "variant29",
+          "variant28",
+          "variant27",
+          "variant26",
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "face",
+        "tabName": "脸",
+        "values": [
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "frontHair",
+        "tabName": "前发",
+        "values": [
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "hair",
+        "tabName": "头发",
+        "values": [
+          "long20",
+          "long19",
+          "long18",
+          "long17",
+          "long16",
+          "long15",
+          "long14",
+          "long13",
+          "long12",
+          "long11",
+          "long10",
+          "long09",
+          "long08",
+          "long07",
+          "long06",
+          "long05",
+          "long04",
+          "long03",
+          "long02",
+          "long01",
+          "short20",
+          "short19",
+          "short18",
+          "short17",
+          "short16",
+          "short15",
+          "short14",
+          "short13",
+          "short12",
+          "short11",
+          "short10",
+          "short09",
+          "short08",
+          "short07",
+          "short06",
+          "short05",
+          "short04",
+          "short03",
+          "short02",
+          "short01"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "variant0708",
+          "variant0707",
+          "variant0706",
+          "variant0705",
+          "variant0704",
+          "variant0703",
+          "variant0702",
+          "variant0701",
+          "variant0405",
+          "variant0605",
+          "variant0604",
+          "variant0603",
+          "variant0602",
+          "variant0601",
+          "variant0505",
+          "variant0504",
+          "variant0503",
+          "variant0502",
+          "variant0501",
+          "variant0404",
+          "variant0403",
+          "variant0402",
+          "variant0401",
+          "variant0305",
+          "variant0304",
+          "variant0303",
+          "variant0302",
+          "variant0301",
+          "variant0205",
+          "variant0204",
+          "variant0203",
+          "variant0202",
+          "variant0201",
+          "variant0105",
+          "variant0104",
+          "variant0103",
+          "variant0102",
+          "variant0101"
+        ]
+      },
+      {
+        "tab": "nose",
+        "tabName": "鼻子",
+        "values": [
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "sideburn",
+        "tabName": "鬓角",
+        "values": [
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 440\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Face Generator</dc:title><dc:creator>The Visual Team</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://www.figma.com/community/file/986078800058673824</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/licenses/by/4.0/</dcterms:license><dc:rights>Remix of „Face Generator” (https://www.figma.com/community/file/986078800058673824) by „The Visual Team”, licensed under „CC BY 4.0” (https://creativecommons.org/licenses/by/4.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"440\" height=\"440\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><g transform=\"matrix(.71048 0 0 .71048 24 2)\"><path d=\"M84 356.5c11.3 73.5 27.3 93.7 57 130.5 47.3 72.2 222.5 105.7 289.2-15.2C539 274.5 400.2 142 284.5 142c-96 0-109.6 36-126 68-57-12.5-83 91-74.5 146.5Z\" fill=\"#4a312c\"/></g><g transform=\"translate(81.7 150.7) scale(.71856)\"><path d=\"M309 148H71v124h.3v1.3c0 29.8 53.3 77.4 119 77.4 65.8 0 119.1-47.6 119.1-77.4 0-1.6-.1-3.1-.4-4.7V148Z\" fill=\"#da9969\"/><path d=\"M71.2 253.6v.9-.9ZM71.2 254.5v18.8c0 29.8 53.4 77.4 119.1 77.4 65.8 0 119.1-47.6 119.1-77.4v-19.7.9c0 29.9-53.3 77.4-119 77.4-65.8 0-119.1-47.5-119.2-77.4Z\" fill=\"#000\" fill-opacity=\".2\"/><path d=\"M309 152.5c0 55.9-54.2 101.8-120 101.8-65.7 0-119-45.3-119-101.2C70 97.3 123.3 52 189 52c65.8 0 120 44.6 120 100.5Z\" fill=\"#da9969\"/></g><g transform=\"translate(199.5 333.4) scale(.71856)\"><path d=\"M60.7 22.9c0 16.9-14.8 30.5-33 30.5C9.2 53.4-5.6 39.8-5.6 23S-1 8 27.6 8c34 0 33-2 33 14.8Z\" fill=\"#DE8383\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M55.1 8.7c-5 4.8-15.3 9-27.2 9A42 42 0 0 1 1 9.3C4 7.9 9.8 8 21.5 8a2115 2115 0 0 0 14.8 0c9.4 0 15.3 0 18.8.7Z\" fill=\"#F9F9F9\"/></g><g transform=\"translate(280.7 235.4) scale(.71856)\"><rect x=\"23\" y=\"20\" width=\"88\" height=\"88.1\" rx=\"44\" fill=\"#da9969\"/><path d=\"M47.6 57.5c2.5-6 18-32 34.5-17.2 12.7 11.3-15 33.2-16.5 22.2C64 51.5 99 52 89 78.5 84.8 90 62 91 47.6 77\" stroke=\"#000\" stroke-opacity=\".2\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g><g transform=\"matrix(-.71856 0 0 .71856 161.5 235.4)\"><rect x=\"23\" y=\"20\" width=\"88\" height=\"88.1\" rx=\"44\" fill=\"#da9969\"/><path d=\"M47.6 57.5c2.5-6 18-32 34.5-17.2 12.7 11.3-15 33.2-16.5 22.2C64 51.5 99 52 89 78.5 84.8 90 62 91 47.6 77\" stroke=\"#000\" stroke-opacity=\".2\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g><g transform=\"translate(114.8 215.5) scale(.71856)\"><path d=\"M187 76a7 7 0 1 1 13.9 0v13.8a7 7 0 1 1-13.9 0V75.9ZM88 76a7 7 0 1 1 13.9 0v13.8a7 7 0 0 1-13.9 0V75.9Z\" fill=\"#000\"/></g><g transform=\"translate(127.7 288.7) scale(.71856)\"><g fill=\"#F88888\"><rect x=\"21\" y=\"16\" width=\"43.4\" height=\"43.4\" rx=\"21.7\"/><rect x=\"194\" y=\"16\" width=\"43.4\" height=\"43.4\" rx=\"21.7\"/></g></g><g transform=\"translate(193 279.4) scale(.71856)\"><path d=\"M22.6 34.4a17 17 0 1 0 32.6 0 16.9 16.9 0 0 1-32.6 0Z\" fill=\"#000\" fill-opacity=\".2\"/></g><g transform=\"matrix(.52237 0 0 .52237 122.9 244.8)\"><path d=\"M43.1 45C43 31.8 41.5 1 25.6 0 8 0 8.6 33.7 7.8 45c-.9 10-3.5 17.3 0 36.4C9.8 92.6 17.5 94 25.6 94c7.6 0 15.6-.9 17.5-9.6 4-18 .3-26.2 0-39.4Z\" fill=\"#4a312c\"/></g><g transform=\"matrix(-.52237 0 0 .52237 315.7 244.8)\"><path d=\"M43.1 45C43 31.8 41.5 1 25.6 0 8 0 8.6 33.7 7.8 45c-.9 10-3.5 17.3 0 36.4C9.8 92.6 17.5 94 25.6 94c7.6 0 15.6-.9 17.5-9.6 4-18 .3-26.2 0-39.4Z\" fill=\"#4a312c\"/></g><g transform=\"matrix(.52237 0 0 .52237 108.7 145.6)\"><path d=\"M374 130c6.5 15.9 11.5 34.5 11.5 70-11 0-73.7 6-114.5-10s-46.9-28.5-60-48c-13 27-37 38-73.5 48s-83.3 7.5-99.5 10c0-23.1 2-46 10.9-67.4A176 176 0 0 1 211 24a175 175 0 0 1 124 51.5c16.4 16.4 30.2 33.1 39 54.5Z\" fill=\"#4a312c\"/></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Spooky",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "big-ears-neutral",
+    "styleName": "中性大耳朵",
+    "tabs": [
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "cheek",
+        "tabName": "面颊",
+        "values": [
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "variant32",
+          "variant31",
+          "variant30",
+          "variant29",
+          "variant28",
+          "variant27",
+          "variant26",
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "variant0708",
+          "variant0707",
+          "variant0706",
+          "variant0705",
+          "variant0704",
+          "variant0703",
+          "variant0702",
+          "variant0701",
+          "variant0405",
+          "variant0605",
+          "variant0604",
+          "variant0603",
+          "variant0602",
+          "variant0601",
+          "variant0505",
+          "variant0504",
+          "variant0503",
+          "variant0502",
+          "variant0501",
+          "variant0404",
+          "variant0403",
+          "variant0402",
+          "variant0401",
+          "variant0305",
+          "variant0304",
+          "variant0303",
+          "variant0302",
+          "variant0301",
+          "variant0205",
+          "variant0204",
+          "variant0203",
+          "variant0202",
+          "variant0201",
+          "variant0105",
+          "variant0104",
+          "variant0103",
+          "variant0102",
+          "variant0101"
+        ]
+      },
+      {
+        "tab": "nose",
+        "tabName": "鼻子",
+        "values": [
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 210 210\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Face Generator</dc:title><dc:creator>The Visual Team</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://www.figma.com/community/file/986078800058673824</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/licenses/by/4.0/</dcterms:license><dc:rights>Remix of „Face Generator” (https://www.figma.com/community/file/986078800058673824) by „The Visual Team”, licensed under „CC BY 4.0” (https://creativecommons.org/licenses/by/4.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"210\" height=\"210\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><rect fill=\"#f8b788\" width=\"210\" height=\"210\" x=\"0\" y=\"0\" /><g transform=\"translate(86.8 138.9) scale(.71856)\"><path d=\"M84 36.8c0 16.9-24.2 4-54.2 4-29.9 0-54.2 12.9-54.2-4 0-17 24.3-30.6 54.2-30.6 30 0 54.3 13.7 54.3 30.6Z\" fill=\"#F9F9F9\"/></g><g transform=\"translate(2 11) scale(.71856)\"><circle cx=\"202.2\" cy=\"92.6\" r=\"11.6\" fill=\"#161616\"/><circle cx=\"89.2\" cy=\"92.6\" r=\"11.6\" fill=\"#161616\"/><path d=\"M177 68.2c4.4-3 11-9.2 24.1-9.2 11.1 0 20.4 6.8 22.1 9.2M64 68.2c4.4-3 11-9.2 24.1-9.2 11.1 0 20.4 6.8 22.1 9.2\" stroke=\"#000\" stroke-width=\"4.6\" stroke-linecap=\"round\"/><path d=\"M186 81c.9 2.5 4 7.8 9.2 9.2M73 81c.9 2.5 4 7.8 9.2 9.2\" stroke=\"#000\" stroke-width=\"4.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g><g transform=\"translate(15 89.2) scale(.71856)\"></g><g transform=\"translate(80.3 79.8) scale(.71856)\"><path d=\"M42.4 22c-.7 5.4-3 16.3-7.1 17-5 1-11-8-13.1-2-2 6 12 21.2 22.2 18.2\" stroke=\"#000\" stroke-opacity=\".5\" stroke-width=\"3.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Misty",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "big-smile",
+    "styleName": "大笑容",
+    "tabs": [
+      {
+        "tab": "hair",
+        "tabName": "头发",
+        "values": [
+          "shortHair",
+          "mohawk",
+          "wavyBob",
+          "bowlCutHair",
+          "curlyBob",
+          "straightHair",
+          "braids",
+          "shavedHead",
+          "bunHair",
+          "froBun",
+          "bangs",
+          "halfShavedHead",
+          "curlyShortHair"
+        ]
+      },
+      {
+        "tab": "face",
+        "tabName": "脸",
+        "values": [
+          "base"
+        ]
+      },
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "openedSmile",
+          "unimpressed",
+          "gapSmile",
+          "openSad",
+          "teethSmile",
+          "awkwardSmile",
+          "braces",
+          "kawaii"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "cheery",
+          "normal",
+          "confused",
+          "starstruck",
+          "winking",
+          "sleepy",
+          "sad",
+          "angry"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 480\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Custom Avatar</dc:title><dc:creator>Ashley Seo</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://www.figma.com/community/file/881358461963645496</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/licenses/by/4.0/</dcterms:license><dc:rights>Remix of „Custom Avatar” (https://www.figma.com/community/file/881358461963645496) by „Ashley Seo”, licensed under „CC BY 4.0” (https://creativecommons.org/licenses/by/4.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"480\" height=\"480\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><g transform=\"matrix(.85775 0 0 .85427 52 47)\"><path d=\"M264 38.6s131.4 20.6 121.4 208.1c0 .7 15.2 10.9 16.4 12a77.1 77.1 0 0 1 23.4 36.3c13.9 51.3-35.7 104.2-75.8 118.2a155 155 0 0 1-46.7 8.3c-103.1 3-239.7-62.7-246.7-191a202.7 202.7 0 0 1 15.1-83.9c0 .1 57.4-142.5 192.9-108Z\" fill=\"#c99c62\"/><path d=\"M388.7 248.7a57 57 0 0 0-3.2 10.5 40 40 0 0 0 8.5 30.4 42.3 42.3 0 0 0 33 15.7c-3.2-31.7-29-50.7-38.3-56.6ZM203.5 332c24.4-5.2 39.6-31 33.9-57.5-5.7-26.5-30.2-43.7-54.6-38.5-24.4 5.3-39.5 31-33.8 57.6 5.7 26.5 30.1 43.7 54.5 38.5Z\" fill=\"#DC2400\" style=\"mix-blend-mode:multiply\" opacity=\".1\"/><path opacity=\".1\" d=\"M323 257.9s20.9-19.9 37-1.2Z\" fill=\"#000\"/><path d=\"M128.7 356.9C59.3 391.7-3.7 304.4 16.5 255.3c12.9-31.4 50.4-33.8 72.1-5.2a185 185 0 0 1 29.1 59.1\" fill=\"#c99c62\"/><path opacity=\".1\" d=\"M71.5 279c9 9 16.1 22.5 25 30-1.7-12.5-4.3-26-10.4-37.3-6.2-11.6-17.5-21-29-20.3-14.2 1-25.9 17.6-27.4 32.6 1-9 19-15 25.9-14.2 10.8 20.4 15 60.6 15 60.6 9-22.7 5.4-40.7 1-51.5Z\" fill=\"#000\"/></g><g transform=\"matrix(.85472 0 0 .855 19 -17)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M317 384a4 4 0 0 1 4-4h92a4 4 0 0 1 0 8h-92a4 4 0 0 1-4-4Z\" fill=\"#592125\"/></g><g transform=\"matrix(.85472 0 0 .855 19 -17)\"><path d=\"M340.9 308.9a48 48 0 0 0-43.1-6.7c-.2 0-.4-.2-.2-.4 21.5-24.5 37.8-6.1 43.6 6.8 0 .2-.2.4-.3.3ZM419 300.3c0 8-3.6 16.5-12.8 15.5-7.8-.8-9.7-11-9.7-16 0-8.7 4.4-17 10.8-17 6.8 0 11.7 9.5 11.7 17.5Z\" fill=\"#2A1200\"/><path d=\"M333.5 238.7a43.9 43.9 0 0 0-38.2 13.2c-3.2 3.4-4 9.3-.7 13 3 3.6 8.6 4.6 12 1l3.2-3c.4-.3 1.3-.8 1.6-1.2l.5-.4a37.7 37.7 0 0 1 6-3c.5 0 1.2-.4 1.7-.5a35.6 35.6 0 0 1 6.3-1.2h2l4.3.5c4.4.7 9-3.6 9.2-8.4.1-5.3-3.2-9.3-8-10ZM425.4 254.4a31.4 31.4 0 0 0-20.2-12.6c-2.1-.4-4.6.4-6.3 1.8a9.5 9.5 0 0 0-3.1 6.2c-.1 2.4.3 5 1.8 6.8a9 9 0 0 0 5.7 3.5l1.2.3c1 .4 2.1.8 3.2 1.4 1.2.8 2.3 1.7 3.3 2.7l1 1.3a8.8 8.8 0 0 0 5.8 3.5c2 .2 4.6-.4 6.2-2 1.7-1.5 3-3.6 3.2-6 .1-2.5-.4-5-1.8-7Z\" fill=\"#71472D\"/></g><g transform=\"matrix(.85472 0 0 .85667 18 -15)\"><path d=\"M119 .1v-.6a37.5 37.5 0 0 1 70.5-17.8 37.4 37.4 0 0 1 66 29.5 37.5 37.5 0 0 1 .6 74.5c-3.2 44.3-37.3 79.1-78.8 79.1a77 77 0 0 1-62.8-33.7A37.6 37.6 0 0 1 69 94.6c0-12 5.6-22.6 14.3-29.5A37.4 37.4 0 0 1 119 .1Z\" fill=\"#605de4\"/><path d=\"M119 .1v-.6a37.5 37.5 0 0 1 70.5-17.8 37.4 37.4 0 0 1 66 29.5 37.5 37.5 0 0 1 .6 74.5c-3.2 44.3-37.3 79.1-78.8 79.1a77 77 0 0 1-62.8-33.7A37.6 37.6 0 0 1 69 94.6c0-12 5.6-22.6 14.3-29.5A37.4 37.4 0 0 1 119 .1Z\" fill=\"#fff\" fill-opacity=\".1\"/><mask id=\"hairFroBun-a\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"69\" y=\"-38\" width=\"220\" height=\"203\"><path d=\"M119 .1v-.6a37.5 37.5 0 0 1 70.5-17.8 37.4 37.4 0 0 1 66 29.5 37.5 37.5 0 0 1 .6 74.5c-3.2 44.3-37.3 79.1-78.8 79.1a77 77 0 0 1-62.8-33.7A37.6 37.6 0 0 1 69 94.6c0-12 5.6-22.6 14.3-29.5A37.4 37.4 0 0 1 119 .1Z\" fill=\"#451E00\"/></mask><g fill=\"#000\" fill-opacity=\".3\" mask=\"url(#hairFroBun-a)\"><path d=\"M125 55.5c-30.8-.4-47.5-27.5-52-41L62 23 43 59.5l4.5 74.5L98 152.5c50-14.2 155.7-45.9 178.5-59.5 22.8-13.6 15.2-57.3 10.5-70-4 30.5-49 70.5-71 70s-91-3-96.5-14c-4.4-8.8 1.8-19.3 5.5-23.5ZM141 14.5c-5.2-8.8-16.5-13-21.5-14-4-14 7-31.3 14.8-40.5a65.3 65.3 0 0 0 0 0c-9 13 .4 41.1 6.7 54.5ZM192.5-5c-.4-10.4-2.8-15.7-4-17 10.8-22 37.5-15.2 49.5-9-18.8-.4-38.2 17.2-45.5 26Z\"/><path d=\"M259.5.5A96.7 96.7 0 0 1 242 32c20.4-1.6 28.2-15.7 29.5-22.5l-12-9Z\"/></g><path d=\"M313.4 158c6.2-8.4 8.3-12.5 15-12.5 6.7 0 13.8 10.9 21.7 12.5 9.8 2 18-3 25.8-2 7.8 1 4.7 6 9.8 17.5 5.2 11.5 14 15 16.6 18.5 2.6 3.5 0 10.5 2 15.5 2.1 5 8.3 7 9.9 11.5 1.5 4.5-1.6 6 1.5 12.5 2.5 5.2 7.2 9.8 9.3 11.5l-12.4-46a104.6 104.6 0 0 0-84.2-67C220.9 100 130 213 98 273.5l23 44.5c6-1.8 14.4-5.5 21.4-13.5 8.8-10 5.7-34 8.8-44 3.1-10 8.3-15 25.8-22.5 17.6-7.5 16.6-21.5 25.4-32.5 8.7-11 27.8-5 36.1-12s1-17 12.4-26 28.4-4.5 37.7 0c9.3 4.5 17 1 24.8-9.5Z\" fill=\"#351700\" style=\"mix-blend-mode:multiply\" opacity=\".3\"/><path d=\"M161.4 86.4C65.7 118.7 21.5 226.5 54.4 335c3.7-11.7 15.7-34.3 42-31.5 4.4 1 16 6 27.6 18 37.4-195 193.5-192.5 239-174 44.4 18 55 88 57.5 97.9 1.6 1.6 4.2.3 4.1-2.1C420.4 83 266 51.2 161.4 86.4Z\" fill=\"#605de4\"/><g fill=\"#000\" fill-opacity=\".1\"><path d=\"M232 81c21.3 9 67.8 31.4 83 49-7.7-16.3-35-49-83-49ZM208 91c4.3 15.3 15.2 48.4 24 58 .7-10.2-3.2-36-24-58ZM174.5 95c-1.5 16.7-.7 55.5 14.5 77.5A55.8 55.8 0 0 1 174.5 95ZM137 233.5a140.8 140.8 0 0 1 11.5-126C94.9 174.3 111.8 235.7 127 258c-8-12.8-8.3-38-7.5-49 .4 11.6 11.8 21.2 17.5 24.5Z\"/><path d=\"M115.5 130c-17.2 28.8-44.6 98.9-17 148.5-17.8-20-39.4-77.7 17-148.5ZM290 87c20.2 6 65.1 25.3 83.5 54.5A111.7 111.7 0 0 0 290 87Z\"/></g></g><g transform=\"matrix(.85472 0 0 .85667 14 -12)\"><ellipse cx=\"387\" cy=\"328.5\" rx=\"29\" ry=\"28.5\" fill=\"#FF3C15\"/><mask id=\"accessoriesClownNose-a\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"359\" y=\"300\" width=\"57\" height=\"57\"><ellipse cx=\"387.5\" cy=\"328.5\" rx=\"28.4\" ry=\"28.3\" fill=\"#FF3C15\"/></mask><g mask=\"url(#accessoriesClownNose-a)\"><path d=\"M390 346.5a43.8 43.8 0 0 1-34-16.5c2.3 11.5 12.4 34.5 34 34.5s27-23 27-34.5a30.6 30.6 0 0 1-27 16.5Z\" fill=\"#DD2400\"/><ellipse rx=\"9.2\" ry=\"10.9\" transform=\"matrix(.9746 .22399 -.44476 .89565 380.5 314.6)\" fill=\"#FF7256\"/></g></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Jack",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "bottts",
+    "styleName": "机器人",
+    "tabs": [
+      {
+        "tab": "face",
+        "tabName": "脸",
+        "values": [
+          "round01",
+          "round02",
+          "square01",
+          "square02",
+          "square03",
+          "square04"
+        ]
+      },
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "bite",
+          "diagram",
+          "grill01",
+          "grill02",
+          "grill03",
+          "smile01",
+          "smile02",
+          "square01",
+          "square02"
+        ]
+      },
+      {
+        "tab": "top",
+        "tabName": "顶部装饰",
+        "values": [
+          "antenna",
+          "antennaCrooked",
+          "bulb01",
+          "glowingBulb01",
+          "glowingBulb02",
+          "horns",
+          "lights",
+          "pyramid",
+          "radar"
+        ]
+      },
+      {
+        "tab": "texture",
+        "tabName": "纹理",
+        "values": [
+          "camo01",
+          "camo02",
+          "circuits",
+          "dirty01",
+          "dirty02",
+          "dots",
+          "grunge01",
+          "grunge02"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "bulging",
+          "dizzy",
+          "eva",
+          "frame1",
+          "frame2",
+          "glow",
+          "happy",
+          "hearts",
+          "robocop",
+          "round",
+          "roundFrame01",
+          "roundFrame02",
+          "sensor",
+          "shade01"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 180 180\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Bottts</dc:title><dc:creator>Pablo Stanley</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://bottts.com/</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://bottts.com/</dcterms:license><dc:rights>Remix of „Bottts” (https://bottts.com/) by „Pablo Stanley”, licensed under „Free for personal and commercial use” (https://bottts.com/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"180\" height=\"180\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><g transform=\"translate(0 66)\"><g opacity=\".9\" stroke=\"#2A3544\"><ellipse cx=\"32.5\" cy=\"23\" rx=\"16.5\" ry=\"18\" stroke-width=\"6\"/><path d=\"M29.51 36.76c-7.4 4.29-17 1.55-21.42-6.1\" stroke-width=\"4\"/><ellipse cx=\"28.5\" cy=\"52.5\" rx=\"16.5\" ry=\"14.5\" stroke-width=\"4\"/></g><g opacity=\".9\" stroke=\"#2A3544\"><path d=\"M168.6 60.42c-4.27-7.41-13.95-9.84-21.6-5.42\" stroke-width=\"4\"/><ellipse cx=\"148.5\" cy=\"22.5\" rx=\"16.5\" ry=\"15.5\" stroke-width=\"6\"/></g><mask id=\"sidesCables02-a\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"21\" y=\"0\" width=\"138\" height=\"72\"><path d=\"M145 0a2 2 0 0 0-2 2v18c0 1.1.9 2 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2h-12ZM23 27a2 2 0 0 0-2 2v18c0 1.1.9 2 2 2h12a2 2 0 0 0 2-2V29a2 2 0 0 0-2-2H23ZM24 60a2 2 0 0 0-2 2v8c0 1.1.9 2 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2H24ZM143 44c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2h-12a2 2 0 0 1-2-2V44Z\" fill=\"#273951\"/></mask><g mask=\"url(#sidesCables02-a)\"><path d=\"M0 0h180v76H0V0Z\" fill=\"#fdd835\"/><path d=\"M0 0h180v76H0V0Z\" fill=\"#fff\" fill-opacity=\".3\"/></g></g><g transform=\"translate(41)\"><mask id=\"topAntenna-a\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"38\" y=\"5\" width=\"24\" height=\"47\"><path d=\"M52 5h-4v31h-8a2 2 0 0 0-2 2v14h24V38a2 2 0 0 0-2-2h-8V5Z\" fill=\"#E1E6E8\"/></mask><g mask=\"url(#topAntenna-a)\"><path d=\"M0 0h100v52H0V0Z\" fill=\"#fdd835\"/><path d=\"M0 3h100v52H0V3Z\" fill=\"#fff\" fill-opacity=\".3\"/><path fill=\"#fff\" fill-opacity=\".2\" d=\"M38 36h24v16H38z\"/></g><circle cx=\"50\" cy=\"8\" r=\"8\" fill=\"#FFE65C\"/><circle cx=\"53\" cy=\"5\" r=\"3\" fill=\"#fff\"/></g><g transform=\"translate(25 44)\"><mask id=\"faceSquare03-a\" style=\"mask-type:luminance\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"130\" height=\"120\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0 18A18 18 0 0 1 18 0h94a18 18 0 0 1 18 18v27.15a40 40 0 0 1-2.28 13.31L110.24 108a18 18 0 0 1-16.98 12H36.74a18 18 0 0 1-16.98-12L2.28 58.45A40 40 0 0 1 0 45.15V18Z\" fill=\"#fff\"/></mask><g mask=\"url(#faceSquare03-a)\"><path d=\"M-2-2h134v124H-2V-2Z\" fill=\"#fdd835\"/><g transform=\"translate(-1 -1)\"></g></g></g><g transform=\"translate(52 124)\"><g fill=\"#000\" fill-opacity=\".6\"><rect x=\"28\" y=\"10\" width=\"6\" height=\"14\" rx=\"2\"/><rect x=\"14\" y=\"10\" width=\"6\" height=\"14\" rx=\"2\"/><rect x=\"42\" y=\"10\" width=\"6\" height=\"14\" rx=\"2\"/><rect x=\"56\" y=\"10\" width=\"6\" height=\"14\" rx=\"2\"/></g></g><g transform=\"translate(38 76)\"><rect y=\"11\" width=\"104\" height=\"34\" rx=\"17\" fill=\"#000\" fill-opacity=\".8\"/><circle cx=\"29\" cy=\"28\" r=\"13\" fill=\"#F1EEDA\"/><circle cx=\"75\" cy=\"28\" r=\"13\" fill=\"#F1EEDA\"/><rect x=\"24\" y=\"23\" width=\"10\" height=\"10\" rx=\"2\" fill=\"#000\" fill-opacity=\".8\"/><rect x=\"70\" y=\"23\" width=\"10\" height=\"10\" rx=\"2\" fill=\"#000\" fill-opacity=\".8\"/></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Lola",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "croodles",
+    "styleName": "涂鸦",
+    "tabs": [
+      {
+        "tab": "nose",
+        "tabName": "鼻子",
+        "values": [
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "face",
+        "tabName": "脸",
+        "values": [
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "top",
+        "tabName": "顶部装饰",
+        "values": [
+          "variant29",
+          "variant28",
+          "variant27",
+          "variant26",
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Croodles - Doodle your face</dc:title><dc:creator>vijay verma</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://www.figma.com/community/file/966199982810283152</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/licenses/by/4.0/</dcterms:license><dc:rights>Remix of „Croodles - Doodle your face” (https://www.figma.com/community/file/966199982810283152) by „vijay verma”, licensed under „CC BY 4.0” (https://creativecommons.org/licenses/by/4.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"256\" height=\"256\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><path d=\"M73.3 106.5c2-5.5 4-9.8 5.4-12.2-.1-.4 0-.8.1-1.1 3-4.9 9-9.3 16.4-12.9a90.7 90.7 0 0 1 26.3-7.5c19.2-2.5 40.7.5 53.9 14.4.2.3.4.6.4 1 1 1.1 2.2 3.2 3.6 6a109 109 0 0 1 4.4 10.2c1.4-.5 3-.7 4.6-.5a7 7 0 0 1 5.4 3.3c2 3.5 2.9 10 1.6 15.8a6.7 6.7 0 0 1-2.6 4.2 6 6 0 0 1-2.3 1c.5 2.8 1 5.6 1.3 8.5 2.8 23.3-1.3 49.6-26 62.6-23.6 12.4-47 16-65.6 12.3-18.7-3.8-32.6-15-36.7-32.5-3.2-13.5-1.3-31 2.2-46.7-1.5-.3-3-1.4-3.9-3-1.3-2.1-2-5.2-1.7-9.2.5-6.2 2.1-10.6 4.8-12.8a7 7 0 0 1 4.6-1.8 9 9 0 0 1 3.8.9Z\" fill=\"#ffffff\"/><g stroke=\"#000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M79 93.7c-6 10-22.2 57.6-15.5 86.4 8.1 34.4 54.6 44.9 102.1 19.7C214.3 174 182.2 95.5 175.3 88\"/><path d=\"M184.3 105.4c2.6-1.1 7.4-1.3 9.3 2 1.8 3.2 2.7 9.3 1.4 15.1-.7 3.3-3 4.3-5 4.3M72.5 107.8c-5.9-3.5-11.4-.2-12.4 12.2-.7 7.9 2.9 11.4 5.4 11\"/></g><g transform=\"translate(116 120)\"><path d=\"M15.3 18c-4 .9-7.2 6.8-4 10 4 4 12.3 4.7 13.1 0 .7-3.9-1.3-6-2.7-6.7\" stroke=\"#000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g><g transform=\"translate(57 132)\"></g><g transform=\"translate(86 184)\"><path d=\"M43.8 10.4c-8 1.5-20.5 1-22.4 2.4-3.4 3.7 16.2 1.3 20.5.8 8.8-1 11.7-4.9 2-3.2Z\" stroke=\"#000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g><g transform=\"translate(-2 -17)\"><g stroke=\"#9747ff\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M84.5 109.8c-19 22.5 5.5 100.5-7 132-4.3 10.8-20.5 19-33.5 16.5M145 68.3c9-8.5 24.1-7.2 34.5 0 13 9 26 24 31.5 106.5s25 82.5 33.5 81\"/><path d=\"M144.5 79.8c-1.5 4-2 9.4-22 12-29 3.9-50.5-3-59 31s-.4 87.5-8 108.5-22.5 21.5-31 16.5\"/><path d=\"M148.5 79.3c0 10-7 16-21.5 17-20.7 1.5-32.5-6.5-51 17.5-13.4 17.4 2.5 75.5-8 109.5-5 16.2-21 19-25 16.5M142 75.3c-3.5 3.5-4.5 6.2-24.5 9-25 3.5-41 4-50.5 17\"/><path d=\"M142.5 71.3c-2.2 2.7-6.8 4.8-22 6-19 1.5-40 4.5-51 17\"/><path d=\"M143 64.3c-5.3-3-24-6.5-45 2-24.6 10-47.3 26-54.5 71.5-7 44.5-7.6 61.5-10 81-.8 6.5-5.5 9-10 9\"/><path d=\"M140 67.8c-17-2-29 0-46.5 9-15.5 8-32.5 20.5-38 62s-3.5 65-7.5 80c-3.3 12.3-12 13.5-17 13.5\"/><path d=\"M21 241.8c4.7 1.5 15.6.3 18.5-18 4.5-28.5 5.6-53.7 7-76.5 1-16.5 3-41.5 35-62.5M148 70.8c14-4.5 33.4-5 41 24.5 9.5 37 12.5 138 22 150a20 20 0 0 0 23 6.5\"/><path d=\"M146 75.3c11-3 30.5-4.5 37 21 6.2 24.5-.5 103.5 2.5 125.5s18.5 37.5 37 30\"/><path d=\"M152 81.3c13.3-4 39.4 3.6 41 68 2 80.5 1.5 101 31 108\"/><path d=\"M152 85.3c18.5 1.5 28.4 18.7 30 41.5 2 28.5-18.5 95.5 0 122 14.8 21.2 30.8 22.5 37 20.5\"/></g></g><g transform=\"translate(71 151)\"></g><g transform=\"translate(71 89)\"><g stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M35.5 48c-.7-.6-5.1-2.3-7.4-6.2-2.3-3.8-2.5-7.7 0-9.3 1.6-1.2 5.1.6 7.4 2.2M36.4 34c1.5-1.6 4.1-3 6.7-1.6 1.8 1 1.6 7.1 0 9.4-1.2 1.9-5.2 5-6.7 6M77.7 33.3c-2.2-2.1-7.1-5.4-9.2-1.7-2.6 4.6 5.6 13 10.2 14.8M79.8 47c2.2-1.7 7-5.4 7.8-6.6 1-1.5 2.8-8 0-10.6-2.8-2.6-8.6 1-8.6 5.2\" stroke=\"#F24E1E\"/><path d=\"M26 18.3c.6-1.4 3-4.2 7-3.7 5.2.6 6.2 1.5 7.4 3.7M72.2 16.2c.5-1.7 3-4.8 8.2-4 5.2.6 7 3.5 7.3 4.9\" stroke=\"#000\"/></g></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Jack",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "lorelei",
+    "styleName": "洛蕾莱",
+    "tabs": [
+      {
+        "tab": "nose",
+        "tabName": "鼻子",
+        "values": [
+          "variant01",
+          "variant02",
+          "variant03",
+          "variant04",
+          "variant05",
+          "variant06"
+        ]
+      },
+      {
+        "tab": "head",
+        "tabName": "头部",
+        "values": [
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "glasses",
+        "tabName": "眼镜",
+        "values": [
+          "variant01",
+          "variant02",
+          "variant03",
+          "variant04",
+          "variant05"
+        ]
+      },
+      {
+        "tab": "hair",
+        "tabName": "头发",
+        "values": [
+          "variant48",
+          "variant47",
+          "variant46",
+          "variant45",
+          "variant44",
+          "variant43",
+          "variant42",
+          "variant41",
+          "variant40",
+          "variant39",
+          "variant38",
+          "variant37",
+          "variant36",
+          "variant35",
+          "variant34",
+          "variant33",
+          "variant32",
+          "variant31",
+          "variant30",
+          "variant29",
+          "variant28",
+          "variant27",
+          "variant26",
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "happy01",
+          "happy02",
+          "happy03",
+          "happy04",
+          "happy05",
+          "happy06",
+          "happy07",
+          "happy08",
+          "happy18",
+          "happy09",
+          "happy10",
+          "happy11",
+          "happy12",
+          "happy13",
+          "happy14",
+          "happy17",
+          "happy15",
+          "happy16",
+          "sad01",
+          "sad02",
+          "sad03",
+          "sad04",
+          "sad05",
+          "sad06",
+          "sad07",
+          "sad08",
+          "sad09"
+        ]
+      },
+      {
+        "tab": "eyebrows",
+        "tabName": "眉毛",
+        "values": [
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 980 980\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Lorelei</dc:title><dc:creator>Lisa Wischofsky</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://www.figma.com/community/file/1198749693280469639</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/licenses/zero/1.0/</dcterms:license><dc:rights>Remix of „Lorelei” (https://www.figma.com/community/file/1198749693280469639) by „Lisa Wischofsky”, licensed under „CC0 1.0” (https://creativecommons.org/licenses/zero/1.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"980\" height=\"980\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><g transform=\"translate(10 -60)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M558 223a340 340 0 0 0-141 0h-5c-23-1-46 3-67 12-23 10-42 25-59 43-27 30-47 67-61 104a538 538 0 0 0-26 96c-13 34-24 68-33 103-7 27-12 55-12 82 0 19 2 37 8 55 6 16 15 32 29 42l5 3 3 2v1c5 24 9 47 16 71l1 4 4 14c1 2 4 1 5-1l1-7-1-3a822 822 0 0 1-2-69c3 16 9 32 17 47l15 19a38 38 0 0 0 17 12c2 0 4 1 6-1l-1-9-1-6 2 1c12 8 25 15 40 17h20c7 0 13-3 20-5 26-5 53-8 79-11a417 417 0 0 1 125 4h1c8 7 17 10 28 12 16 3 33 3 49 0 4-1 10-2 14 0l2 1c2 1 3 3 6 2 5-1 9-7 12-11 6-10 10-22 13-33v-1l2 9c2 6 3 13 3 19v17c5 0 8-2 11-5 5-4 8-10 10-16 3-13 5-25 6-38a841 841 0 0 0 0-45l2 8c3 17 6 34 4 51l-8 26-1 3-2 4c3 0 5-3 7-4 6-7 9-16 11-25 3-8 4-17 3-26 0-20-3-38-7-58v-1l-1-5c-3-16-6-32-6-48l2-16 1-10v-1l8 21 2 7c1 1 3 2 5 1l2-7 1-2c5-17 7-34 8-51a224 224 0 0 0-5-47c4 17 6 34 7 51v1c0 16 0 31-2 46l3-2v-2c6-11 8-24 8-36 1-14 1-29-1-43l-8-36-2-8a463 463 0 0 1-13-120l-1-27-3-1-1-25 1-6 1-2c1-4 6-7 10-5 4 3 4 7 4 11v17a2790 2790 0 0 1 3 54c4-5 7-12 9-18 6-18 6-38 4-56-2-14-7-27-15-38-9-14-22-26-35-37-16-14-35-26-55-35l-2-1-7-4 12 4 3 1c18 6 38 13 54 23 11 7 19 16 28 25l4 6 2 2h1c0-7-4-14-8-19-5-8-12-15-20-20-12-10-27-16-41-22-33-13-68-20-102-25l-11-2-14-2ZM191 541v-1c-11 38-22 76-24 115-1 22 2 44 9 65 5 12 12 24 22 33a906 906 0 0 1-9-193l1-9 1-10Z\" fill=\"#000000\"/><path d=\"M486 236c57-2 115 18 159 56a209 209 0 0 1 73 190c-1 4-1 8-4 12l-1-3v-33a215 215 0 0 0-172-206 235 235 0 0 0-270 153c-12 37-14 78-6 116 6-2 12-2 17-2 2 1 5 1 6 3s0 3-1 4l-12 4c-14 3-27 8-37 18a63 63 0 0 0-22 45c0 12 3 24 8 35 8 13 19 24 33 31 18 10 41 13 62 7 2-1 4-2 6-1s3 4 4 6l15 30a215 215 0 0 0 72 63c28 15 59 21 90 26 3 1 8 1 10 4 1 2 0 3-2 4l-11 1a231 231 0 0 1-147-62c5 18 8 36 8 54 0 12-2 23-6 34-5 10-11 18-19 26a196 196 0 0 1-60 43c-1-1 1-2 2-3l17-14c13-12 25-23 35-38a93 93 0 0 0 17-65l-4-39-2-10-12-17c-5-10-11-20-13-31a93 93 0 0 1-96-31 81 81 0 0 1-19-51c0-12 3-23 8-34 9-16 23-29 40-36-8-31-8-62-3-93 8-40 26-77 51-108 45-54 115-87 186-88Z\" fill=\"#000\"/><path d=\"M541 252a214 214 0 0 1 172 206v33c-1 5-2 10-1 15-2 2-3 3-3 5-3 18-1 37 1 55 4 29 6 59 2 88-3 28-13 56-30 79-16 21-38 34-62 43-15 6-30 9-45 13-11 2-22 4-32 8 1 2 4 1 6 2 12 1 24-1 36-2-5 8-8 17-9 26-2 10 2 19 9 26 6 7 15 11 24 14 5 2 11 3 17 3 7 9 13 18 14 30 2 12-1 24-8 34-9 14-22 23-37 30-18 9-38 15-57 18a352 352 0 0 1-192-23c-18-10-38-23-48-42-4-7-8-16-6-24 18-10 33-23 47-38 8-8 14-16 19-26 4-11 6-22 6-34 0-18-3-36-8-54a235 235 0 0 0 147 62l11-1c2-1 3-2 2-4-2-3-7-3-10-4-31-5-62-11-90-26-18-10-36-22-50-37-8-8-16-17-22-26l-15-30c-1-2-2-5-4-6s-4 0-6 1a82 82 0 0 1-95-38c-5-11-8-23-8-35 1-17 9-34 22-45 10-10 23-15 37-18l12-4c1-1 2-2 1-4s-4-2-6-3c-5 0-11 0-17 2-8-38-6-79 6-116a236 236 0 0 1 270-153Z\" fill=\"#ffffff\"/><path d=\"m712 506 3 3 1 13 3 45c3 20 5 40 5 60 0 16-1 32-5 47-6 28-20 56-40 76a174 174 0 0 1-88 46c-1 9-4 16-4 25-1 6 2 10 5 15 8 8 18 14 28 19l18 9c-3 3-8 1-12 2-6 0-12-1-17-3-9-3-18-7-24-14-7-7-11-16-9-26 1-9 4-18 9-26-12 1-24 3-36 2-2-1-5 0-6-2 10-4 21-6 32-8 15-4 30-7 45-13 24-9 46-22 62-43 17-23 27-51 30-79 4-29 2-59-2-88-2-18-4-37-1-55 0-2 1-3 3-5ZM262 566c6 0 12 1 15 6 2 3 2 7 1 10-3 8-9 14-11 22-1 4 0 7 3 9 7 5 16 7 24 10l-2 2h-11c-6-1-12-2-17-5-5-4-9-11-7-18 2-9 9-15 12-23-7-4-14-2-20-8 3-4 8-6 13-5Z\" fill=\"#000\"/><path d=\"M686 474c5 2 10 7 12 12 3 8 3 17 1 25-1 4-4 8-9 8s-9-5-8-10c0-8 3-15 1-23l-5-4c-6 0-12 3-17 5 2 3 4 5 4 8 2 7 1 14 0 21-1 8-4 14-9 20-3 2-7 6-11 7-5 1-10-1-12-5-4-5-4-11-3-16l-6 8c-1 2-2 3-4 3-1-2 0-6 1-8a95 95 0 0 1 44-49c6-3 14-4 21-2ZM470 481c18 6 35 17 46 33 3 4 6 9 7 14 1 3 1 5-1 6-3 1-6-3-8-5-3 6-2 13-6 18-3 4-7 8-11 10-6 3-13 3-19 1s-10-8-14-13c-5-10-5-20-4-30 1-8 4-15 9-21-14-5-29-8-42-2-10 4-16 11-19 21-1 5 0 11-3 15-3 3-9 3-12 0s-4-7-3-11c1-12 7-22 16-30 6-4 12-7 19-9 15-4 31-3 45 3Z\" fill=\"#000000\"/><path d=\"M480 404c10 1 19 0 29 3 9 3 18 10 22 19 4 6 2 16-6 19-6 4-15 3-23 2-20-3-40-9-60-14l-20-4-10-2-4-4c2-4 6-6 10-7l20-7 18-3 24-2ZM656 410c8 1 15 4 22 7l9 4c2 2 3 6 1 8l-10 4c-17 4-33 11-51 12l-9 1c-3 0-6-2-8-4-3-2-4-5-4-9 0-7 2-15 8-20 4-3 11-4 16-5 8 0 17 0 26 2Z\" fill=\"#000000\"/><path d=\"M594 572a37 37 0 0 1 19 29c0 9-5 18-13 22l-17 7c-4 1-6 2-9 0-2-3-1-4 1-6 6-5 15-7 21-12 3-2 5-5 5-9 0-10-5-17-7-26v-5Z\" fill=\"#000000\"/><path d=\"M599 665c5 0 10 3 13 7 3 6 4 13 5 20 1 11-1 23-6 33-5 9-13 13-22 15-11 3-23 3-34 3-4 0-9-1-13-3 7-3 13-3 20-4l21-3c6-1 14-4 18-9s6-12 7-19l-4 6c-4 3-9 3-14 4l-26 4c-7 1-15 3-23 0l-11 23c-3 1-3-2-3-4 0-7 3-14 6-20 7-17 21-32 36-42 9-6 19-11 30-11Z\" fill=\"#000000\"/><path d=\"M492 216c35 0 70 7 103 17 23 6 45 14 66 24 23 12 45 25 63 44 15 13 27 28 35 46 3 8 5 17 6 26 1 13 0 26-2 39-2 10-6 22-13 30l-2-6c0-20-5-40-12-59 1 19-3 40-15 55-4 4-8 5-12 7s-9 2-13 2c-7-1-15-4-22-7-2-2-5-3-6-6-4-13-5-27-9-40l-6-17c-2 10-4 19-8 28-3 11-8 21-15 30l-8 7-3-14-4-17c-5-21-14-42-26-61v29c-2 16-3 31-10 45-3 7-4 14-10 18-8 4-18 5-27 5-13 0-28 2-41-1-6-2-8-7-11-12l-14-31-11-20c-2 22-2 43-1 64-1 2 0 4-2 5-1 2-3 1-5 0-9-4-16-11-23-18-9-12-19-24-25-37l2 17c3 12 7 24 12 35l2 8-5-2c-7-5-12-12-17-19-7-12-11-27-12-41-5 19-7 39-8 59l-2 10c-1 3-3 4-6 5l-33 5h-11a670 670 0 0 0 13 152l15 61c1 3 0 5-2 7-15-8-26-23-36-38v63l-3 6a245 245 0 0 1-64-94l-6-16a397 397 0 0 1-27-151c1-40 9-80 26-116a217 217 0 0 1 76-91l31-17c11-4 22-9 34-10 10-1 21-3 31 0 4 1 8-1 12-2 20-4 41-6 61-6Z\" fill=\"#000000\"/></g><g transform=\"translate(10 -60)\"></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Lola",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "micah",
+    "styleName": "米卡",
+    "tabs": [
+      {
+        "tab": "nose",
+        "tabName": "鼻子",
+        "values": [
+          "curve",
+          "pointed",
+          "tound"
+        ]
+      },
+      {
+        "tab": "hair",
+        "tabName": "头发",
+        "values": [
+          "fonze",
+          "mrT",
+          "dougFunny",
+          "mrClean",
+          "dannyPhantom",
+          "full",
+          "turban",
+          "pixie"
+        ]
+      },
+      {
+        "tab": "ears",
+        "tabName": "耳朵",
+        "values": [
+          "attached",
+          "detached"
+        ]
+      },
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "shirt",
+        "tabName": "衬衫",
+        "values": [
+          "open",
+          "crew",
+          "collared"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "surprised",
+          "laughing",
+          "nervous",
+          "smile",
+          "sad",
+          "pucker",
+          "frown",
+          "smirk"
+        ]
+      },
+      {
+        "tab": "facialHair",
+        "tabName": "胡须",
+        "values": [
+          "beard",
+          "scruff"
+        ]
+      },
+      {
+        "tab": "eyebrows",
+        "tabName": "眉毛",
+        "values": [
+          "up",
+          "down",
+          "eyelashesUp",
+          "eyelashesDown"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "eyes",
+          "round",
+          "eyesShadow",
+          "smiling"
+        ]
+      },
+      {
+        "tab": "earrings",
+        "tabName": "耳环",
+        "values": [
+          "hoop",
+          "stud"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 360\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Avatar Illustration System</dc:title><dc:creator>Micah Lanier</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://www.figma.com/community/file/829741575478342595</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/licenses/by/4.0/</dcterms:license><dc:rights>Remix of „Avatar Illustration System” (https://www.figma.com/community/file/829741575478342595) by „Micah Lanier”, licensed under „CC BY 4.0” (https://creativecommons.org/licenses/by/4.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"360\" height=\"360\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><g transform=\"translate(80 23)\"><path d=\"M154 319.5c-14.4-20-25.67-58.67-27-78L58.5 212 30 319.5h124Z\" fill=\"#ac6651\" stroke=\"#000\" stroke-width=\"4\"/><mask id=\"baseStandard-a\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"30\" y=\"212\" width=\"124\" height=\"118\"><path d=\"M154 329.5c-14.4-20-25.67-68.67-27-88L58.5 212 30 329.5h124Z\" fill=\"#ac6651\"/></mask><g mask=\"url(#baseStandard-a)\"><ellipse cx=\"124\" cy=\"210\" rx=\"59\" ry=\"54\" fill=\"#000\" style=\"mix-blend-mode:multiply\"/></g><path d=\"M181.94 151.37v.01l.1.4.14.65A75.72 75.72 0 0 1 34.93 187.7l-.2-.74L18 117.13l-.06-.29A75.72 75.72 0 0 1 165.2 81.55l.05.21.02.08.05.2.05.2v.01l16.4 68.44.08.34.08.34Z\" fill=\"#ac6651\" stroke=\"#000\" stroke-width=\"4\"/><g transform=\"translate(34 102.3)\"><path d=\"M146.13 49.15A73.74 73.74 0 0 1 27.69 123.4C10.5 107.5 6.5 56 2.7 31.65c14 31.5 49.62 33.94 83.5 28 28.5-5 51.3-6 51.3-45 1.88 2.62 6.97 27.59 8.63 34.5Z\" fill=\"#000\"/></g></g><g transform=\"translate(170 183)\"><path d=\"M10 24.16c4.94 6.45 12.43 13.6 23.98 11.96 11.55-1.62 16.68-9.6 15.17-16.04\" stroke=\"#000000\" stroke-width=\"4\"/></g><g transform=\"translate(110 102)\"><path d=\"M99 10.21c5.67-2.66 19-5.1 27 6.5M23.58 35.52c2.07-5.9 9.68-17.12 23.56-14.7M26.07 29.46l-6.14-5.43M122.96 11.16l6.15-5.43M32.52 23.81l-4.04-7.13M115.51 7.51l4.05-7.13M40.6 20.2l-2.2-7.9M106.44 6.9l2.2-7.9\" stroke=\"#000000\" stroke-width=\"4\" stroke-linecap=\"round\"/></g><g transform=\"translate(49 11)\"><g fill=\"#000000\"><path opacity=\".1\" d=\"M187.99 77.18c-8-6.4-21.84-7-27.5-6.5l-8-26.5c13.6 3.2 32 24 35.5 33Z\"/><path d=\"M85.8 11.76S91.52 7.8 115.74 1.7c24.21-6.1 33.04-3.72 33.04-3.72l11.8 72.84s-8.05-.18-28.04 4.19c-20 4.38-29.56 9.67-29.56 9.67l-17.2-72.9Z\"/><path d=\"M48.99 86.68c-6.8-41.6 23.33-68.17 37-75.5l16.98 73.5c-19.2-39.6-45.33-15.17-54 2Z\"/><path opacity=\".1\" d=\"M67.49 130.68c-7.2-27.2 22-41.84 35.5-46-7-16.34-23-31-42.5-13-18 30.5-11 54-5.5 72l12.5-13Z\"/></g></g><g transform=\"translate(142 119)\"><circle cx=\"15.24\" cy=\"20.24\" r=\"12\" transform=\"rotate(-6.28 15.24 20.24)\" fill=\"#e0ddff\"/><ellipse cx=\"16.53\" cy=\"29.4\" rx=\"9\" ry=\"13.5\" transform=\"rotate(-6.78 16.53 29.4)\" fill=\"#000000\"/><circle cx=\"79.02\" cy=\"11.61\" r=\"12\" transform=\"rotate(-6.28 79.02 11.61)\" fill=\"#e0ddff\"/><ellipse cx=\"80.53\" cy=\"19.4\" rx=\"9\" ry=\"13.5\" transform=\"rotate(-6.28 80.53 19.4)\" fill=\"#000000\"/><g transform=\"translate(-40 -8)\"></g></g><g transform=\"rotate(-8 1149.44 -1186.92)\"><path d=\"M12.3 12.34c5.45-1.24 14.38.62 12.42 10.54-1.74 8.82-11.1 9.3-13.72 6.82\" stroke=\"#000\" stroke-width=\"4\"/></g><g transform=\"translate(84 154)\"><path d=\"M30.5 6.18A23.78 23.78 0 0 0 23.08 5c-10.5 0-19 6.5-18 18.5 1.04 12.5 8.5 17 19 17A19.6 19.6 0 0 0 31 39.23\" stroke=\"#000\" stroke-width=\"8\"/><path d=\"M31.5 39.04a19.38 19.38 0 0 1-7.42 1.46c-10.5 0-17.96-4.5-19-17-1-12 7.5-18.5 18-18.5 3.14 0 6.19.6 8.92 1.73l-.5 32.3Z\" fill=\"#ac6651\"/><path d=\"M27.5 13.5c-4-1.83-12.8-2.8-16 8\" stroke=\"#000\" stroke-width=\"4\"/><path d=\"M17 14c2.17 1.83 6.3 7.5 5.5 15.5\" stroke=\"#000\" stroke-width=\"4\"/><g transform=\"translate(3 35)\"></g></g><g transform=\"translate(53 272)\"><g stroke=\"#000\" stroke-width=\"4\"><path d=\"M126.77 67.58 128 66l-1.23 1.58 1.72 1.34 1.19-1.83v-.02l.05-.06.04-.05a28.57 28.57 0 0 1 .8-1.18 112.35 112.35 0 0 1 11.5-14.05c3.67-3.78 7.83-7.4 12.13-9.93 4.31-2.53 8.58-3.84 12.53-3.3C209.17 44.2 240.4 63 260.67 91h-273.3c16.3-29.34 39.49-48.02 77.07-56.59 1.6-.36 3.78-.25 6.5.38 2.7.63 5.77 1.73 9.09 3.19 6.62 2.9 14.02 7.16 20.97 11.56a355.78 355.78 0 0 1 25.24 17.63l.4.3.1.08.02.02h.01Z\" fill=\"#000000\"/><path d=\"m52.61 37.08 5.17-19.23c.2-.78 1.22-1 1.76-.4C74.4 33.7 93.16 33.08 99.4 32.33c.84-.1 1.5.82 1.1 1.58L87.34 58.86c-.2.38-.62.6-1.04.5-3.95-.82-23.62-5.63-33.57-21.5a1 1 0 0 1-.12-.78ZM183.2 36.98 171.61 17.5c-.4-.66-1.37-.65-1.79 0-5.73 8.83-15.63 12.9-19.09 14.1-.62.22-.9.96-.57 1.53l13.5 22.81c.2.34.59.53.97.42 2.13-.61 9.46-3.67 18.54-18.34a1 1 0 0 0 .01-1.04Z\" fill=\"#000000\"/><path d=\"m52.61 37.08 5.17-19.23c.2-.78 1.22-1 1.76-.4C74.4 33.7 93.16 33.08 99.4 32.33c.84-.1 1.5.82 1.1 1.58L87.34 58.86c-.2.38-.62.6-1.04.5-3.95-.82-23.62-5.63-33.57-21.5a1 1 0 0 1-.12-.78ZM183.2 36.98 171.61 17.5c-.4-.66-1.37-.65-1.79 0-5.73 8.83-15.63 12.9-19.09 14.1-.62.22-.9.96-.57 1.53l13.5 22.81c.2.34.59.53.97.42 2.13-.61 9.46-3.67 18.54-18.34a1 1 0 0 0 .01-1.04Z\" fill=\"#fff\" fill-opacity=\".75\"/><path d=\"m109.5 54.5-9-21.5-7 15 16 6.5ZM141 53.5l9-21.5 7 15-16 6.5ZM70.5 14l-12 3 10 6.5 2-9.5ZM160 14l11 3-7 6.5-4-9.5Z\" fill=\"#000\" stroke-linejoin=\"round\"/></g></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Bob",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "miniavs",
+    "styleName": "迷你化身",
+    "tabs": [
+      {
+        "tab": "head",
+        "tabName": "头部",
+        "values": [
+          "normal",
+          "wide",
+          "thin"
+        ]
+      },
+      {
+        "tab": "hair",
+        "tabName": "头发",
+        "values": [
+          "balndess",
+          "slaughter",
+          "ponyTail",
+          "long",
+          "curly",
+          "stylish",
+          "elvis",
+          "classic02",
+          "classic01"
+        ]
+      },
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "default",
+          "missingTooth"
+        ]
+      },
+      {
+        "tab": "body",
+        "tabName": "身体",
+        "values": [
+          "tShirt",
+          "golf"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "normal",
+          "confident",
+          "happy"
+        ]
+      },
+      {
+        "tab": "mustache",
+        "tabName": "小胡子",
+        "values": [
+          "pencilThinBeard",
+          "pencilThin",
+          "horshoe",
+          "freddy"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Miniavs - Free Avatar Creator</dc:title><dc:creator>Webpixels</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://www.figma.com/community/file/923211396597067458</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/licenses/by/4.0/</dcterms:license><dc:rights>Remix of „Miniavs - Free Avatar Creator” (https://www.figma.com/community/file/923211396597067458) by „Webpixels”, licensed under „CC BY 4.0” (https://creativecommons.org/licenses/by/4.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"64\" height=\"64\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><path d=\"M46.07 40.4c.47 7.5.94 15-11.07 15.56v9.91S31.36 68 26.5 68c-4.86 0-8.5-3.48-8.5-3.48V45.1c-.2-1.02-.33-2.06-.41-3.12a5 5 0 0 1-.9-9.8C15.37 22.63 17.52 13 32 13c14.59 0 14.24 11.08 13.96 19.81-.04 1.15-.07 2.25-.07 3.29 0 1.4.09 2.86.18 4.3Z\" fill=\"#ffcb7e\"/><path d=\"M17.59 41.98c-.16-1.97-.16-3.97-.16-5.88a46.7 46.7 0 0 1-.73-3.93 5 5 0 0 0 .89 9.81ZM18 45.1v19.42S21.64 68 26.5 68c4.86 0 8.5-2.13 8.5-2.13v-9.91c-.48.02-.98.03-1.5.03-10.79 0-14.34-4.95-15.5-10.9Z\" fill=\"#000\" fill-opacity=\".07\"/><path d=\"M34.93 55.96c-.46.02-.93.03-1.43.03-7.25 0-11.23-2.23-13.41-5.5.5 4.82 3.16 8.5 8.3 8.5h1.36c3.8.03 4.92.04 5.18-3.03Z\" fill=\"#000\" fill-opacity=\".07\"/><rect x=\"36\" y=\"41\" width=\"3\" height=\"2\" rx=\"1\" fill=\"#000\" fill-opacity=\".07\"/><rect x=\"7\" y=\"60\" width=\"40\" height=\"23\" rx=\"9\" fill=\"#3633e0\"/><path d=\"M20.67 28.22v6.02c0 .76-.67 1.76-1.17 2.26-.5.5-2 1.5-2.85 1.5-.85 0-3.54-.45-4.83-2.26-1.28-1.8-.89-11.32 0-13.54.9-2.21 4.19-6.88 8.85-10.45a26.26 26.26 0 0 1 12.88-5.34C58.48 3.4 49.22 20.99 46 25.5c-5.5-2-9.5-2.5-16.72-1.53-7.21.99-8.01 1.99-8.6 4.24Z\" fill=\"#47280b\"/><g transform=\"translate(1)\"><path d=\"M27.93 46a1 1 0 0 1 1-1h9.14a1 1 0 0 1 1 1 5 5 0 0 1-5 5h-1.14a5 5 0 0 1-5-5Z\" fill=\"#66253C\"/><path d=\"M35.76 50.7a5 5 0 0 1-1.69.3h-1.14a5 5 0 0 1-5-4.8c.77-.29 1.9-.25 3.02-.22L32 46c2.21 0 4 1.57 4 3.5 0 .42-.09.83-.24 1.2Z\" fill=\"#B03E67\"/><path d=\"M29 45h10v1a1 1 0 0 1-1 1h-8a1 1 0 0 1-1-1v-1Z\" fill=\"#fff\"/></g><g transform=\"translate(0 -1)\"><path d=\"M43 37.5a1.5 1.5 0 0 1-3 0v-1.23c0-.15.12-.27.27-.27h2.46c.15 0 .27.12.27.27v1.23ZM33 37.5a1.5 1.5 0 0 1-3 0v-1.23c0-.15.12-.27.27-.27h2.46c.15 0 .27.12.27.27v1.23Z\" fill=\"#47280b\"/><path stroke=\"#47280b\" stroke-linecap=\"round\" d=\"M29.5 36.5h4M39.5 36.5h4\"/></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Mia",
+      "version": "5.x"
+    }
+  },
+  {
+    "style": "notionists",
+    "styleName": "概念者",
+    "tabs": [
+      {
+        "tab": "nose",
+        "tabName": "鼻子",
+        "values": [
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "glasses",
+        "tabName": "眼镜",
+        "values": [
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "brows",
+        "tabName": "眉毛",
+        "values": [
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "lips",
+        "tabName": "嘴唇",
+        "values": [
+          "variant30",
+          "variant29",
+          "variant28",
+          "variant27",
+          "variant26",
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "hair",
+        "tabName": "头发",
+        "values": [
+          "variant63",
+          "variant62",
+          "variant61",
+          "variant60",
+          "variant59",
+          "variant58",
+          "variant57",
+          "variant56",
+          "variant55",
+          "variant54",
+          "variant53",
+          "variant52",
+          "variant51",
+          "variant50",
+          "variant49",
+          "variant48",
+          "variant47",
+          "variant46",
+          "variant45",
+          "variant44",
+          "variant43",
+          "variant42",
+          "variant41",
+          "variant40",
+          "variant39",
+          "variant38",
+          "variant37",
+          "variant36",
+          "variant35",
+          "variant34",
+          "variant33",
+          "variant32",
+          "variant31",
+          "variant30",
+          "variant29",
+          "variant28",
+          "variant27",
+          "variant26",
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01",
+          "hat"
+        ]
+      },
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "beard",
+        "tabName": "胡子",
+        "values": [
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "body",
+        "tabName": "身体",
+        "values": [
+          "variant25",
+          "variant24",
+          "variant23",
+          "variant22",
+          "variant21",
+          "variant20",
+          "variant19",
+          "variant18",
+          "variant17",
+          "variant16",
+          "variant15",
+          "variant14",
+          "variant13",
+          "variant12",
+          "variant11",
+          "variant10",
+          "variant09",
+          "variant08",
+          "variant07",
+          "variant06",
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "variant05",
+          "variant04",
+          "variant03",
+          "variant02",
+          "variant01"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1744 1744\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Notionists</dc:title><dc:creator>Zoish</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://heyzoish.gumroad.com/l/notionists</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/publicdomain/zero/1.0/</dcterms:license><dc:rights>Remix of „Notionists” (https://heyzoish.gumroad.com/l/notionists) by „Zoish”, licensed under „CC0 1.0” (https://creativecommons.org/publicdomain/zero/1.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"1744\" height=\"1744\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><g transform=\"translate(531 487)\"></g><g transform=\"translate(178 1057)\"><path d=\"M1313.4 698 9.7 694.7S43.1 485 106 365.7c17-32.4 81-128.7 141.8-189.6 40.8-41 87.7-56 89-62 2.2-9.7-11-41.4-8.8-48.5 8.1-25.5 9.5.8 42.1-31.8 18.3-18.2 1.4-29.6 21.6-43.2 29.8-20 60-8.7 87-7.6 18 .7 12.4 50.3 27.3 62.5 40.3 32.9 91.8 54 128 63.5 46.1 12.2 61.6-2.5 85.4-12.2 23.8-9.6 38.5 12.2 68.9-33.2 14.2-21.2-11-42.6 8.2-54C826.6-8.3 872.2-7.7 891.1 2c28.9 14.8 16.3 41.6 16.3 41.6s35.7 11.6 43 22c7.2 10 5 44 5 44s-2.8-13.7 63.4 23.5c84.2 47.4 179.2 187.2 223 296 46.6 115.8 71.6 269 71.6 269Z\" fill=\"#fff\"/><path d=\"M1307 698c-9.4-38.5-16.9-77.2-25.6-115.7-6.3-27.8-14-55-22.4-82.2-9.5-30.6-19.5-61-33-90.4-9.6-20.7-19.4-41.1-29.5-61.5a673 673 0 0 0-57.7-92.4 470.2 470.2 0 0 0-60.5-70 342.9 342.9 0 0 0-83-57.4c-3-1.5-6.6-2.3-9.2-4.3-17-12.7-33.7-6.3-44.8 12.9-30.8 53.2-78.6 77.6-137.2 85.4a19 19 0 0 1-6.4 0c-5.6-1.2-13.6-1.2-13-9.1.7-7 8-4.5 12.7-5.1 43.7-5.8 84-19.6 113.4-54.3 12.4-14.8 21.6-32.4 31.3-49.3 10.2-17.9 2.4-45-23.7-50.5-11.8-2.5-19.5-6.3-16.2-21.4 2-9.6-4.8-18.9-13.2-23-10.4-5-21.7-9.1-34.5-5.6-11.7 3.2-24.2 4.1-36.3 6-7.1 1-12.2 5.8-18 9.4-4.4 2.8-4.4 6.4-2.5 11 7 17.4 1 39.8-13.9 51-14.7 11.2-30.4 20.2-50 18.4-4.9-.5-8.9 1.2-12.8 4.4-14 11.8-30.4 14.5-48.7 14.3-38.8-.4-74.2-12.6-109.2-27.3-7.8-3.3-13.6-12.6-26.5-7.5 27 34.9 67 48.4 105.6 67.6a26 26 0 0 1-24.8 3c-51.4-17.5-91.9-47.6-117.2-97-8.4-16.5-14.9-33-18.1-51-2.3-12.6-5.7-13.8-17.6-8.4-13.2 6-24.9 14.3-35.7 23.6-12.5 10.8-20 24-18.1 41.5 1 8.4 0 17 .2 25.6a47.3 47.3 0 0 0 35.2 46 37 37 0 0 1 18.4 10.8c-14.6 6.6-40.5-1.2-53-15.9C377.8 89.8 391.1 21 437.3-3.2l5-2.8a39.9 39.9 0 0 0-54 19A80.5 80.5 0 0 1 349 56c-15.3 7.7-19.8 28.7-7.8 39.4 23.4 20.8 43 45.8 69.9 62.6 15.4 9.6 30.1 21 46.7 28 15.8 6.5 33.6 8.4 50.6 11.8 5 1 10.2.8 13.3 5.6.3 3.4-1.7 5.6-4.4 5.5-32.1-1.5-63.4-4.4-92-23a437.5 437.5 0 0 1-69-54.1c-11-11-23.1-6.1-34 0-39 22-72.5 50.9-102.9 83.7a615.2 615.2 0 0 0-87.4 123 870.6 870.6 0 0 0-50.5 108A1198.4 1198.4 0 0 0 47 548.6a558.2 558.2 0 0 0-20.6 102.1c-1.3 15.2-7.3 29.7-7.9 46.2-5.5 1-10.8 1-17.1 1 4.6-32.9 9.9-66 16.2-98.8 3.7-19.1 9.2-37.9 13.7-56.8 5.6-23.6 13.4-46.5 21.2-69.4a831.6 831.6 0 0 1 84-179c16.9-27 36-52.4 57-76 36.7-41.1 76.3-78 126-103 6.4-3.3 9.3-7 4.1-15.1C314.4 85 317.8 54 339 44.4c16.6-7.6 26.6-22 34.3-37.8a56.1 56.1 0 0 1 51.4-33.3c19.6-.5 39.2-.7 58.8-1 9 0 14.1 1.6 10.1 12.7C491.1-8 492-.5 499 4.5a8.7 8.7 0 0 1 4 6.1c4.4 31 27.1 45.6 52.1 57.7 19.8 9.6 39.6 20.3 60.5 26.3 21.8 6.3 44.5 12.1 67.7 10.5a46 46 0 0 0 26.9-10.8c6.3-5.4 14.2-4.9 21.6-6.4 17-3.4 32.5-9.8 45-22.1 11.2-11.2 12-22 3.3-35.3-7.8-11.9-3.3-33.8 8.5-40.8 3.5-2 8.7-2.8 9.8 1.6 3 11.4 9.8 6.6 15.9 4.8a159 159 0 0 1 55.3-8.2A58 58 0 0 1 906 3.5c7.8 6.9 9.7 15.6 9.8 25.3 0 7.6 2.4 11.9 11 13.9 24.7 5.6 33.8 17.7 34.2 43.1 0 5.3 1.4 8.3 6.3 11 34.6 18.7 70.4 35.4 101.6 60 29.3 23 53 51.1 75.5 80.4A719.4 719.4 0 0 1 1245 414c18.2 46.5 33.7 94 46.4 142.4 12 46 16 93.5 27.1 140.6-3.2.9-6.7.9-11.4.9Z\" fill=\"#000\"/><path d=\"M1122.7 698c-9.3-36.4-12.3-73.8-22.2-110-7.8-28.4-14-57.4-24.2-85-7.2-19.4-14-39-23.5-57.7-12.7-25-23.3-51.2-34.7-77-1.4-3-2.8-6.3 1.4-8.8 4.4-2.7 7.6-.6 9.9 2.7 5 7.3 10.2 14.6 14.2 22.5 16 31.2 32 62.7 43 96 7.5 22.8 15.6 45.5 21.2 69 3.9 16.5 8.2 33 12 49.4 7 32.2 11.9 65 14.5 97.9-3.4 1-7 1-11.6 1ZM219 698a451 451 0 0 1 4.4-86.5c3.7-29 4.4-58.3 11-87 3.9-17 9-33.6 13-50.4 7.4-32.1 18.1-63.5 34.6-92.4 2.4-4 4.8-8 7.4-12 2.3-3.3 4.1-8.7 9.5-6.2 5.7 2.8 3.2 8.2 1.8 12.4a320 320 0 0 1-10 26.1c-18 40-33 81.2-40.6 124-7.3 42-15.8 84.3-14 127.6.7 14-1.6 28-2.6 43.2-4.5 1.2-9 1.2-14.4 1.2ZM629.3 367.8c-1.5-9.8 2.8-16.7 6.6-23.9 11.4-21.3 8.4-29.9-11.6-42.6-17.7-11.3-35.3-23-44.2-44-5.8-14-4.4-28.3-6.2-42.4-1-7.2 2.4-16 12.3-16.7 9.4-.6 20.9-3.5 25.6 8.4 3.4 8.6 2.1 17-6.2 24-15 12.8-13.9 19.7 3.7 29.1 13.8 7.4 28.5 13.3 40.5 23.9 23.8 21 26 56 4.5 79.2-6.8 7.3-7.8 15.3-6 24.6.9 4.3 2.7 10.2-3.1 12.3-5.3 2-6.5-4-9.2-7-6.3-6.8-7.1-15-6.7-24.9ZM804.3 405.5c1.2 3.4 4.6 5.2 3 8.6-20.6.3-34.9-24.4-26-44 5-11.3 13.4-20.6 15.8-33.3 3-16.5 0-25.2-15-32.3-27-12.9-39.8-33-35.3-63.4 1.4-9.4 1.4-17.6-11.8-20.7-9-2.2-11.2-12.2-9.2-21 2-8.5 8.8-13.9 17-12.6 7.6 1.3 17.4 3.5 16.7 15.4-.2 3-.4 6.1 2 8.4 11 11 8.6 24.1 6 37.1-2.2 11.1 0 20.3 9.8 26.8 6.4 4.2 12.5 8.9 19.2 12.6a49 49 0 0 1 13 78.4c-14.3 16-15.7 25.7-5.2 40ZM851 92c16.8-7 17.8-16.8 17.5-33.6 0-5-2.4-10 .8-14.9 11.1 2.4 17.6 16.4 14 30a48 48 0 0 1-48.7 35.4 41.9 41.9 0 0 0-31.2 13c-7.7 7-16.5 10.5-27 4.4 18.8-9.4 31.1-30.8 55.7-28.2 6.8.7 12-3.5 18.8-6Z\" fill=\"#000\"/></g><g transform=\"translate(266 207)\"><path d=\"M879.9 432.4c-70.1 14-182-53.7-265.8-105.6-4.9-3-11.3-3.2-13.7 4-12 36.1-42.4 55.2-70.3 76.6-11.3 8.7-23 17.3-35 25-29.7 19.1-39.7 50.9-53 80.6-10.5 23.8-26.3 42.2-51.3 51.4-11.7 4.4-14.3 2.7-14.2-10.1.1-22-6-43-18.8-60-20.4-27-38.8-31.2-67.5-11.4-6.5 4.5-9.1 14.7-14 22.9-9.7-3.4-13.6-12.8-18.2-19.9-24.7-37.9-35.1-80.4-37.6-125.1-1.1-21.3 6.1-41.3 11.8-61a192.4 192.4 0 0 1 51.5-89c23.8-22.6 52.3-34.5 84.1-41.2 26.6-5.5 53-6.5 79.7-4.4 8 .7 13.1-3.4 17.5-8.5a246 246 0 0 1 109.3-76.3c119.3-40.5 209.2 122.2 216.2 130.8 3 3.8 5.6 6.2 10.6 4.1 38.1-16.3 78.4-18.7 118.8-15 32.7 2.8 71.1 9.2 83.3 41.8 29.4 78.6-60 177.6-123.4 190.3Z\" fill=\"#000\"/></g><g transform=\"translate(791 871)\"><path d=\"M125.4 111.5c-9.6-13-11.7-29.2-24.6-39.4-7-5.7-14.7-8-22.8-10.6-3.7-1.1-9.3-.7-9.3-6.7-.1-6.7 6-6.6 10-7.7 12-3 22 4 30.6 9.7a60.3 60.3 0 0 1 27 46.7c.6 6.5 1.2 15.8-11 8Z\" fill=\"#000\"/></g><g transform=\"translate(653 805)\"></g><g transform=\"translate(901 668)\"><path d=\"M82 57.5c4.9-6 9.2-11.2 13.8-16.2 2.5-2.8 6-4 9-1.2 3.5 3 1.3 5.8-.8 8.8C96 60.4 86 70.1 80.5 83.4c-4 9.8-5.3 19-2.3 29.6 5.8 19.9 10.5 40 15.1 60.2 3.3 14.4-2.3 23.8-16 29-4 1.6-7.9 3.2-11.7 5-16.4 8-30.4 1.5-44.4-8.6 3.8-8 9.6-10.7 18.5-5.7 8.7 5 32.7.6 39.6-6.8 4.5-5 1.4-9.7 0-14.4-5.8-19.7-14-38.7-15.6-59.8a68.6 68.6 0 0 1 18.4-54.4Z\" fill=\"#000\"/></g><g transform=\"translate(610 680)\"><path d=\"M409.2 75.7c13.1.3 25.4 1 37.7 2.5 3 .3 4.9 3.3 5 6.6 0 3.4-1.8 5.7-4.8 7-11.1 4.9-22 8.3-33.7.2-6.5-4.4-8.9-8.6-4.2-16.3ZM254.7 78.4c6.2 3.3 5.2 7 2.1 10.8-6.5 8-28.2 10-36.4 3.5-4.7-3.8-7.3-8.6-4.4-14.4 3-6 8.2-5 13-2.5 8 4 16.4 3 25.7 2.6Z\" fill=\"#000\"/></g><g transform=\"translate(610 680)\"></g><g transform=\"translate(774 657)\"><path d=\"M104.9 38.7C82.4 47 60.2 43 38.3 43c-3 0-6.3-2.2-9.2-4-2.7-1.5-4.4-4-3-7.4 1.5-3.7 4-5 8-4.5 27.2 3.7 53.7.8 79.9-7 5-1.6 13.3-8 16.2 1.6 3 10.2-6.8 10.8-13.4 13l-12 3.9ZM260.5 33.1c-7.2 2.7-13.5 5.3-19.9 7.6-2.4.8-5.1.9-6.8-1.8-1.6-2.4-1-4.4.5-7 13.4-22 56.2-24.9 71-4.4 1.9 2.4 3.3 5 4.2 7.8 1.3 4.1 2.4 9.2-2.2 11.5-4.3 2.2-7.7-1.1-10.7-4.5-14-15.5-17-16.3-36-9.2Z\" fill=\"#000\"/></g><g transform=\"translate(0 559)\"></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Lola",
+      "version": "9.x"
+    }
+  },
+  {
+    "style": "personas",
+    "styleName": "角色",
+    "tabs": [
+      {
+        "tab": "backgroundColor",
+        "tabName": "背景颜色",
+        "values": [
+          "ffd5dc",
+          "ffdfbf",
+          "transparent",
+          "b6e3f4",
+          "c0aede"
+        ]
+      },
+      {
+        "tab": "body",
+        "tabName": "身体",
+        "values": [
+          "squared",
+          "rounded",
+          "small",
+          "checkered"
+        ]
+      },
+      {
+        "tab": "eyes",
+        "tabName": "眼睛",
+        "values": [
+          "open",
+          "sleep",
+          "wink",
+          "glasses",
+          "happy",
+          "sunglasses"
+        ]
+      },
+      {
+        "tab": "facialHair",
+        "tabName": "胡须",
+        "values": [
+          "beardMustache",
+          "pyramid",
+          "walrus",
+          "goatee",
+          "shadow",
+          "soulPatch"
+        ]
+      },
+      {
+        "tab": "hair",
+        "tabName": "头发",
+        "values": [
+          "long",
+          "sideShave",
+          "shortCombover",
+          "curlyHighTop",
+          "bobCut",
+          "curly",
+          "pigtails",
+          "curlyBun",
+          "buzzcut",
+          "bobBangs",
+          "bald",
+          "balding",
+          "cap",
+          "bunUndercut",
+          "fade",
+          "beanie",
+          "straightBun",
+          "extraLong",
+          "shortComboverChops",
+          "mohawk"
+        ]
+      },
+      {
+        "tab": "mouth",
+        "tabName": "嘴巴",
+        "values": [
+          "smile",
+          "frown",
+          "surprise",
+          "pacifier",
+          "bigSmile",
+          "smirk",
+          "lips"
+        ]
+      },
+      {
+        "tab": "nose",
+        "tabName": "鼻子",
+        "values": [
+          "mediumRound",
+          "smallRound",
+          "wrinkles"
+        ]
+      }
+    ],
+    "pic": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" fill=\"none\" shape-rendering=\"auto\" width=\"96\" height=\"96\"><metadata xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\"><rdf:RDF><rdf:Description><dc:title>Personas by Draftbit</dc:title><dc:creator>Draftbit - draftbit.com</dc:creator><dc:source xsi:type=\"dcterms:URI\">https://personas.draftbit.com/</dc:source><dcterms:license xsi:type=\"dcterms:URI\">https://creativecommons.org/licenses/by/4.0/</dcterms:license><dc:rights>Remix of „Personas by Draftbit” (https://personas.draftbit.com/) by „Draftbit - draftbit.com”, licensed under „CC BY 4.0” (https://creativecommons.org/licenses/by/4.0/)</dc:rights></rdf:Description></rdf:RDF></metadata><mask id=\"viewboxMask\"><rect width=\"64\" height=\"64\" rx=\"0\" ry=\"0\" x=\"0\" y=\"0\" fill=\"#fff\" /></mask><g mask=\"url(#viewboxMask)\"><path d=\"M37 46.08V52a5 5 0 0 1-10 0v-5.92A14.04 14.04 0 0 1 18.58 37h-.08a4.5 4.5 0 0 1-.5-8.97V27a14 14 0 1 1 28 0v1.03a4.5 4.5 0 0 1-.58 8.97A14.04 14.04 0 0 1 37 46.08Z\" fill=\"#e7a391\"/><mask id=\"personas-a\" style=\"mask-type:luminance\" maskUnits=\"userSpaceOnUse\" x=\"14\" y=\"13\" width=\"36\" height=\"44\"><path d=\"M37 46.08V52a5 5 0 0 1-10 0v-5.92A14.04 14.04 0 0 1 18.58 37h-.08a4.5 4.5 0 0 1-.5-8.97V27a14 14 0 1 1 28 0v1.03a4.5 4.5 0 0 1-.58 8.97A14.04 14.04 0 0 1 37 46.08Z\" fill=\"#fff\"/></mask><g mask=\"url(#personas-a)\"><path d=\"M32 13a14 14 0 0 1 14 14v6a14 14 0 1 1-28 0v-6a14 14 0 0 1 14-14Z\" fill=\"#fff\" style=\"mix-blend-mode:overlay\" opacity=\".36\"/></g><g transform=\"translate(20 24)\"><path d=\"M6 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM18 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z\" fill=\"#1B0640\"/><path d=\"M9 2H3v6h6V2ZM21 2h-6v6h6V2Z\" opacity=\".3\" fill=\"#fff\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11 1.05h2c.65 0 1.21-.2 1.84-.42C15.66.33 16.6 0 18 0c1.67 0 3.33.35 5 1.05l1 .53v1.58l-1 .52v3.16A3.08 3.08 0 0 1 20 10h-4c-1.66 0-3-1.41-3-3.16V3.16h-2v3.68A3.08 3.08 0 0 1 8 10H4c-1.66 0-3-1.41-3-3.16V3.68l-1-.52V1.58l1-.53A12.8 12.8 0 0 1 6 0c1.4 0 2.34.33 3.16.63.63.22 1.19.42 1.84.42ZM8.24 2.52A6.1 6.1 0 0 0 6 2.11c-1 0-2 .14-3 .44v4.3c0 .57.45 1.04 1 1.04h4c.55 0 1-.47 1-1.05V2.8l-.76-.27ZM15 2.8l.76-.27A6.1 6.1 0 0 1 18 2.11c1 0 2 .14 3 .44v4.3c0 .57-.45 1.04-1 1.04h-4c-.55 0-1-.47-1-1.05V2.8Z\" fill=\"#1B0640\"/></g><g transform=\"translate(2 2)\"><path d=\"M30.03 8a6.51 6.51 0 0 1 4.85 2.05c.56.54.96 1.32 1.1 2.14l.67 4.16c.35 1.94-.7 3.67-2.53 4.09-1.62.37-3 .55-4.12.55-1.13 0-2.55-.2-4.24-.58-1.84-.42-2.84-2.2-2.38-4.14l.79-4.2c.16-.74.53-1.43 1.03-1.93C25.83 9.5 27.3 8 30.03 8Z\" fill=\"#362c47\"/><path d=\"M34.88 10.05c.56.54.96 1.32 1.1 2.14l.67 4.16c.35 1.94-.7 3.67-2.53 4.09-1.62.37-3 .55-4.12.55-1.13 0-2.55-.2-4.24-.58-1.84-.42-2.84-2.2-2.38-4.14l.79-4.2c.16-.74.53-1.43 1.03-1.93.26-.27.67-.69 1.25-1.08-.31.48-1.45.98-1.45 2.43V15a3.06 3.06 0 0 0 2.02 3.51c1.18.34 2.18.5 2.98.5.79 0 1.76-.16 2.9-.47 1.28-.35 2.35-1.89 2.1-3.53v-3c0-1.5-1.1-2.54-1.5-3l-.14-.14c.73.42 1.22.9 1.52 1.2Z\" fill=\"#fff\" style=\"mix-blend-mode:overlay\" opacity=\".26\"/></g><g transform=\"translate(11 44)\"><path d=\"M16 7v.47a5 5 0 1 0 10 0V7c7.06 1.52 12.93 6.74 16 13H0C3.07 13.74 8.94 8.52 16 7Z\" fill=\"#f3b63a\"/></g><g transform=\"translate(23 36)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9 2c-.76 0-1.51-.14-2.27-.41A2.03 2.03 0 0 0 4 3.5c0 1.4.82 2.6 2 3.17a3 3 0 0 0 6 0 3.5 3.5 0 0 0 2-3.17 2.03 2.03 0 0 0-2.73-1.91C10.51 1.86 9.76 2 9 2ZM7.59 7h2.82A1.5 1.5 0 0 1 7.6 7Z\" fill=\"#456DFF\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 6.5v.17a3.5 3.5 0 0 0 2-3.17 2.03 2.03 0 0 0-2.73-1.91 6.61 6.61 0 0 1-4.54 0A2.03 2.03 0 0 0 4 3.5c0 1.4.82 2.6 2 3.17V6.5a3 3 0 1 1 6 0ZM7.59 7h2.82A1.5 1.5 0 1 0 7.6 7Z\" fill=\"#fff\" fill-opacity=\".3\" style=\"mix-blend-mode:lighten\"/><circle cx=\"9\" cy=\"4.5\" r=\"1.5\" fill=\"#fff\"/></g><g transform=\"translate(24 28)\"><path d=\"M5.29 6.24a.75.75 0 1 1 1.42-.48c.23.7.62 1 1.3 1 .66 0 1.05-.3 1.28-1a.75.75 0 1 1 1.42.48c-.42 1.3-1.37 2.01-2.7 2.01S5.72 7.54 5.3 6.24Z\" fill=\"#000\" style=\"mix-blend-mode:overlay\" opacity=\".36\"/></g><g transform=\"translate(14 26)\"></g></g></svg>",
+    "params": {
+      "size": "96",
+      "seed": "Buddy",
+      "version": "5.x"
+    }
+  }
+]

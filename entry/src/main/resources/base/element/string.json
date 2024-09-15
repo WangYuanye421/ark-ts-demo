@@ -11,6 +11,15 @@
     {
       "name": "EntryAbility_label",
       "value": "basic"
+    },
+    {
+      "name": "enablement_title",
+      "value": "Harmony 第一课"
+    },
+    {
+      "name": "enablement_brief",
+      "value": "基于真实场景开发，提供向导式学习，多维度融合课程内容"
     }
+
   ]
 }
